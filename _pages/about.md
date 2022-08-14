@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -12,6 +11,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+*My last name is pronouced /uːpæðˈjeɪ/ or ooh-path-yay*
 
 I am a first-year PhD student in the [Language Processing Group](https://langprocgroup.github.io/){:target="\_blank"} at the University of California, Irvine, where I am advised by [Richard Futrell](https://www.socsci.uci.edu/~rfutrell/){:target="\_blank"}.
 
