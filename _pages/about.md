@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+description: My last name is pronounced /uːpæðˈjeɪ/ or ooh-path-yay 
 
 profile:
   align: right
