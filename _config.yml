@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <strong> Shiva Upadhye </strong> # the website title (if blank, full name will be used instead)
-first_name: Shiva 
+title: Shiva Upadhye # the website title (if blank, full name will be used instead)
+first_name: <strong> Shiva </strong>
 middle_name: 
-last_name: Upadhye
+last_name: <strong> Upadhye </strong>
 email: upadhyes@uci.edu
 description: My last name is pronounced /uːpæðˈjeɪ/ or ooh-pa-the-yay 
 footer_text: >
