@@ -117,9 +117,9 @@
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
           {%- endif -%}-->
           {%- if entry.year -%}
-            {%- capture entryyear -%}{{ "(}}{{entry.year}}{{")"}}{%- endcapture -%}
+            {%- capture entryyear -%}{{" "}}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
-          {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+          {%- capture periodical -%}{{ entrytype }}{{(entryyear)}}{%- endcapture -%}
           <div class="periodical">
             {{ periodical | strip }}
           </div>
