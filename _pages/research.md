@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 years: [2020, 2022]
-pub: ["Refereed Conference Papers", "Peer-Reviewed Abstracts and Presentations"]
+pub: ["Conference Proceedings", "Abstracts and Presentations"]
 nav: true
 nav_order: 1
 ---
