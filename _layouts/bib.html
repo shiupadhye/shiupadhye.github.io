@@ -117,7 +117,7 @@
             {%- capture entryyear -%}{{" ("}}{{entry.year}}{{") "}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.address -%}
-            {%- capture entryaddress -%}{{". "}}{{entry.address}}{{"."}}{%- endcapture -%}
+            {%- capture entryaddress -%}{{". "}}{{entry.address}}{%- endcapture -%}
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{entryaddress}}{{entryyear}}{%- endcapture -%}
           <div class="periodical">
