@@ -42,10 +42,10 @@
             {%- assign author_is_self = false -%}
             {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
             {%- if author_last_name == site.scholar.last_name -%}
-              <!--{%- if site.scholar.first_name contains author.first -%}
-                {%- assign author_is_self = true -%}
-              {%- endif -%}-->
-            {%- endif -%}
+                {%- if site.scholar.first_name contains author.first -%}
+                  {%- assign author_is_self = false -%}
+                {%- endif -%}
+              {%- endif -%}
             {%- assign coauthor_url = nil -%}
             {%- if site.data.coauthors[author_last_name] -%}
               {%- for coauthor in site.data.coauthors[author_last_name] -%}
