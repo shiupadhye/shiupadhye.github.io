@@ -11,11 +11,11 @@ nav_order: 2
 
 **LSCI 3: Introduction to Linguistics**
 
+**PSYCH 112M: Research Methods in Psychology**
+
 *Other pedagogical experience*:
 
 **Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022)**
-
-**PSYCH 112M: Research Methods in Psychology**
 
 #### University of California, San Diego
 
