@@ -7,11 +7,13 @@ nav_order: 2
 ---
 #### University of California, Irvine
 
-**Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022)**
-
 *As teaching assistant*:
 
 **LSCI 3: Introduction to Linguistics**
+
+*Other pedagogical experience*:
+
+**Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022)**
 
 **PSYCH 112M: Research Methods in Psychology**
 
