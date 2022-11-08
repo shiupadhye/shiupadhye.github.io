@@ -10,7 +10,7 @@ nav_order: 1
 <!-- _pages/research.md -->
 <div class="publications">
 
-{% for p in page.pub %}
+{% for p in page.year %}
   <h4 class="publication">{{p}}</h4>
   {% bibliography -f papers -q @*[publication={{p}}]* %}
 {% endfor %}
