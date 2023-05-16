@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-years: [2022,2020]
+years: [2020,2022,2023]
 pub: ["Conference Proceedings", "Workshops","Abstracts and Presentations"]
 nav: true
 nav_order: 1
