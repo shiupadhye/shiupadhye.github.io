@@ -12,7 +12,8 @@ nav_order: 1
 
 [* = equal contribution]
 
-\vspace{2cm}
+</br>
+
 
 {% for y in page.years %}
   <h4 class="year">{{y}}</h4>
