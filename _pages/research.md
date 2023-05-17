@@ -10,9 +10,7 @@ nav_order: 1
 <!-- _pages/research.md -->
 <div class="publications">
 
-[* = equal contribution]
-
-</br>
+* = equal contribution
 
 
 {% for y in page.years %}
