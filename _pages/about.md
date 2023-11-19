@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-*My last name is pronounced 'oo-pa-the-ye*
+My last name is pronounced *oo* (as in r*oo*t)-*pa*-*the*-*ye* (/upaðje/, although technically it's /upadʰje/)
 
 I am a third-year PhD student in the [Language Processing Group](https://langprocgroup.github.io/){:target="\_blank"} at the University of California, Irvine, where I am advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/){:target="\_blank"}.
 
