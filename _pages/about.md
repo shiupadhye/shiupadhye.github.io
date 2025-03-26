@@ -12,10 +12,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My last name is pronounced *oo* (as in r**oo**t) - *pa* - *the* - *ye* (IPA: /'upaðje/, though technically it's /'upadʰje/)
+My last name is pronounced *oo* (as in r**oo**t) - *pa* - *the* - *ye* (IPA: /'upaðje/, though it's actually /'upadʰje/ if we're being pedantic about aspirated consonants)
 
-I am a third-year PhD student in the [Language Processing Group](https://langprocgroup.github.io/){:target="\_blank"} at the University of California, Irvine, where I am advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/){:target="\_blank"}.
+I am PhD candidate in the [Language Processing Group](https://langprocgroup.github.io/){:target="\_blank"} at the University of California, Irvine, where I am advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/){:target="\_blank"}.
 
-Broadly speaking, I am interested in investigating the role of domain-general cognitive mechanisms like control, planning, and monitoring in incremental language production. My research leverages theories from psycholinguistics, data from naturalistic corpora and typing-based experiments, and insights from large language models. 
+Broadly speaking, I'm interested in the fields of Computational Psycholinguistics and LLM intepretability. My current research focuses on understanding how cognitive constraints and performance demands shape speaker choices in online production. In my work, I leverage insights from psycholinguistics and cognitive science, data from naturalistic corpora and typing-based experiments, and of course, LLMs. 
 
-Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science with an emphasis in Machine Learning and Neural Computation and a minor in Math from UC San Diego, where I worked on investigating implicit discourse structure knowledge in neural language models.
+Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science with an emphasis in Machine Learning and Neural Computation and a minor in Math from UC San Diego, where I worked on investigating implicit discourse structure knowledge in LLMs (if you'd still consider GPT-2 to be 'large' language model - it was circa 2020).
