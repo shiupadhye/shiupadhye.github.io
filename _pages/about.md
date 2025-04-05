@@ -18,4 +18,4 @@ I am PhD candidate in the [Language Processing Group](https://langprocgroup.gith
 
 Broadly speaking, I'm interested in the fields of Computational Psycholinguistics and LLM intepretability. My current research focuses on understanding how cognitive constraints and performance demands shape speaker choices in online production. In my work, I leverage insights from psycholinguistics and cognitive science, data from naturalistic corpora and typing-based experiments, and of course, LLMs. 
 
-Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science with an emphasis in Machine Learning and Neural Computation and a minor in Math from UC San Diego, where I worked on investigating implicit discourse structure knowledge in LLMs (if you'd still consider GPT-2 to be 'large' language model - it was circa 2020).
+Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science, Machine Learning, and Neural Computation and a minor in Math from UC San Diego. While at UCSD, I worked on investigating implicit discourse structure knowledge in LLMs (if you'd still consider GPT-2 to be a 'large' language model - it was circa 2020).
