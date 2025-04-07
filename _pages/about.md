@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 
 My last name is pronounced *oo* (as in r**oo**t) - *pa* - *the* - *ye* (IPA: /'upaðje/, though it's actually /'upadʰje/ if we're being pedantic about aspirated consonants)
 
-I am PhD candidate in the [Language Processing Group](https://langprocgroup.github.io/){:target="\_blank"} at the University of California, Irvine, where I am advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/){:target="\_blank"}.
+I am PhD candidate in the [Language Processing Group](https://langprocgroup.github.io/){:target="\_blank"} at the University of California, Irvine, where I'm advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/){:target="\_blank"}.
 
 Broadly speaking, I'm interested in the fields of Computational Psycholinguistics and LLM intepretability. My current research focuses on understanding how cognitive constraints and performance demands shape speaker choices in online language production. In my work, I leverage insights from psycholinguistics and cognitive science, data from naturalistic corpora and typing-based experiments, and of course, LLMs. 
 
