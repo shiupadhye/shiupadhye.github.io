@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-# GitHub Pages environment and Jekyll plugins
+# GitHub Pages gem, which ensures compatibility with GitHub Pages' environment
 gem 'github-pages', group: :jekyll_plugins
 
 group :jekyll_plugins do
-    gem 'jekyll'
+    gem 'jekyll'  # GitHub Pages uses Jekyll v3.10.0, do not specify a different version.
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
