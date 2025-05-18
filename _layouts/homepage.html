@@ -40,17 +40,18 @@
       {% include nav.html %}
 
       <header class="split-header">
-  {% if site.avatar %}
-    <div class="avatar-container">
-      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
-    </div>
-  {% endif %}
+
+  <div class="avatar-container">
+    {% if site.avatar %}
+    <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+    {% endif %}
+  </div>
 
   <div class="bio">
     <h1>{{ site.title }}</h1>
 
     {% if site.position %}
-    <div class="position">{{ site.position }}</div>
+    <div class="position" style="font-size: 1.1rem;">{{ site.position }}</div>
     {% endif %}
 
     {% if site.affiliation %}
@@ -58,13 +59,33 @@
     {% endif %}
 
     {% if site.email %}
-    <email>{{ site.email }}</email>
+    <email>{{ site.email }}</email><br>
     {% endif %}
 
     <div class="social-icons">
-      ... <!-- leave as-is -->
+      {% if site.google_scholar %}
+      <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar"></i></a>
+      {% endif %}
+
+      {% if site.cv_link %}
+      <a href="{{ site.cv_link }}"><i class="ai ai-cv"></i></a>
+      {% endif %}
+
+      {% if site.github_link %}
+      <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
+      {% endif %}
+
+      {% if site.linkedin %}
+      <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
+      {% endif %}
+
+      {% if site.twitter %}
+      <a href="{{ site.twitter }}"><i class="fab fa-x-twitter"></i></a>
+      {% endif %}
     </div>
+
   </div>
+
 </header>
       <section>
 
