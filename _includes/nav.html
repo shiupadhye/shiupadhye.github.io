@@ -1,7 +1,9 @@
-<nav class="custom-nav">
-  {% for item in site.navigation %}
-    {% unless item.url == page.url %}
-      <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    {% endunless %}
-  {% endfor %}
-</nav>
+<div class="wrapper">
+  <nav class="custom-nav">
+    {% for item in site.navigation %}
+      {% unless item.url == page.url %}
+        <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% endunless %}
+    {% endfor %}
+  </nav>
+</div>
