@@ -31,11 +31,10 @@ LIGN 165: Computational Linguistics </p>
 
 <p> Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (Fellowship awarded to mentee for AY 2024-2025) </p>
 
-</div>
 
 <strong> P.S. </strong>, As someone who didn't have the easiest of journeys into this rich, interdisciplinary, yet difficult to define field, I'm happy to chat or help in any way that I can! Please don't hesitate to reach out if you think I can be of any service to you! 
 
-
+</div>
 
 
 
