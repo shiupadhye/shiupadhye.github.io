@@ -6,29 +6,31 @@ permalink: /pedagogy/
 
 ## University of California, Irvine
 
-*Instructor of record* <br>
-LSCI 3: Introduction to Linguistics (Summer Session I, 2025) </strong> 
+<div class="presentation-entry">
+<em> Instructor of record  </em><br>
+LSCI 3: Introduction to Linguistics (Summer Session I, 2025) 
 
-*Teaching Assistant* <br>
+<em> Teaching Assistant </em> <br>
 LSCI 3: Introduction to Linguistics <br>
 LSCI 2: Discovering Language <br>
 LSCI 150: Psychology of Language  <br>
 PSYCH 112M: Research Methods in Psychology <br>
 PoliSci 121G: American Public Policy  <br>
 
-*Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022)* <br>
+<em> Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022) </em> <br>
 Fellowship awarded by the Division of Teaching Excellence and Innovation (DTEI) for development and improvement of hybrid pedagogy.
 
 
 ## University of California, San Diego
 
-*Instructional Assistant* <br>
-LIGN 165: Computational Linguistics </strong> 
+<em> Instructional Assistant </em> <br>
+LIGN 165: Computational Linguistics 
 
 
 ## Mentorship
-Graduate Mentor at *Undergraduate Research Opportunities Program (UROP) Fellowship* (Fellowship awarded to mentee for AY 2024-2025) <br>
+Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (Fellowship awarded to mentee for AY 2024-2025) <br>
 
+</div>
 
 
 
