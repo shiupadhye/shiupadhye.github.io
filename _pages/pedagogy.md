@@ -7,7 +7,7 @@ permalink: /pedagogy/
 <h1 class="pub-header"> University of California, Irvine </h1>
 
 <div class="presentation-entry">
-<p> <em> Instructor of record  </em><br>
+<p> <em> Instructor of record  </em> <br>
 LSCI 3: Introduction to Linguistics (Summer Session I, 2025) </p>
 
 <p> <em> Teaching Assistant </em> <br>
@@ -28,7 +28,8 @@ LIGN 165: Computational Linguistics </p>
 
 
 <h1 class="pub-header"> Mentorship </h1>
-Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (Fellowship awarded to mentee for AY 2024-2025) <br>
+
+<p> Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (Fellowship awarded to mentee for AY 2024-2025) </p>
 
 </div>
 
