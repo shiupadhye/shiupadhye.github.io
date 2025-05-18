@@ -34,3 +34,48 @@ strong, b {
   color: inherit !important;
   font-family: inherit !important;
 }
+
+.pub-list {
+  margin: 0;
+}
+
+.pub-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-title {
+  font-weight: 600;
+  color: #2280c3;
+  margin-bottom: 0.2rem;
+  font-size: 1.05rem;
+}
+
+.pub-authors,
+.pub-venue {
+  margin: 0.1rem 0;
+  font-size: 0.95rem;
+}
+
+.pub-links {
+  margin-top: 0.2rem;
+  font-size: 0.9rem;
+}
+
+.pub-links a {
+  margin-right: 1rem;
+  color: #2280c3;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-note {
+  font-style: italic;
+  color: #c0392b;
+  margin-left: 0.5rem;
+}
+
