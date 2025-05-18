@@ -141,10 +141,13 @@ body.homepage h3 {
   margin-bottom: 2rem;
 }
 
+.presentation-entry p,
 .pub-entry,
 .pub-venue {
-  font-size: 1.35rem;  
+  font-size: 1.35rem;
   line-height: 1.8;
+  font-family: Georgia, serif; /* or inherit, if you want consistency */
+  font-weight: normal;
 }
 
 .pub-venue {
@@ -172,9 +175,8 @@ body.homepage h3 {
   margin-left: 0.5rem;
 }
 
-.presentation-entry {
-  font-size: 1.35rem;  /* slightly larger than body text */
-  line-height: 1.8;
+.presentation-entry strong {
+  font-weight: bold;
 }
 
 
