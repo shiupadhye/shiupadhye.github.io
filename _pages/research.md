@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 ---
 
+{% include publications.md %}
+
 ## Presentations
 
 **Upadhye S.** & Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice (2025). <br>
