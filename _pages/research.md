@@ -11,16 +11,16 @@ permalink: /research/
   {% for link in site.data.publications.main %}
     <div class="pub-item">
 
-      <p class="pub-authors">
+      <p class="pub-entry">
         {{ link.authors 
           | replace: "Yaoyao Liu*", "<strong>Yaoyao Liu*</strong>" 
           | replace: "Yaoyao Liu", "<strong>Yaoyao Liu</strong>" 
         }}
-        {% if link.year %} ({{ link.year }}){% endif %}.
+        {% if link.year %} ({{ link.year }}){% endif %}. {{ link.title }}.
       </p>
 
-      <p class="pub-title">
-        {{ link.title }}. <em>{{ link.conference }}</em>.
+      <p class="pub-venue">
+        <em>{{ link.conference }}</em>.
       </p>
 
       <p class="pub-links">
