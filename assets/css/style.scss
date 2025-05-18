@@ -69,7 +69,7 @@ body.homepage .image.avatar img {
 }
 
 .avatar-container {
-  flex-shrink: 0;
+  margin-left: -1rem; 
 }
 
 .homepage-container {
@@ -109,7 +109,7 @@ body.homepage .image.avatar img {
 }
 
 .bio {
-  margin-left: 5rem; /* Add space between avatar section and about text */
+  margin-left: 2rem; /* Add space between avatar section and about text */
 }
 
 // TYPOGRAPHY
