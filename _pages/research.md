@@ -4,21 +4,13 @@ title: "Research"
 permalink: /research/
 ---
 
-
 <h2 class="pub-header">Publications</h2>
 
 <div class="pub-list">
   {% for link in site.data.publications.main %}
     <div class="pub-item">
-      <p class="pub-title">
-        {% if link.title_url %}
-          <a href="{{ link.title_url }}" target="_blank">{{ link.title }}</a>
-        {% else %}
-          {{ link.title }}
-        {% endif %}
-      </p>
-      <p class="pub-authors">{{ link.authors }}</p>
-      <p class="pub-venue"><em>{{ link.conference }}</em></p>
+      <p class="pub-authors">{{ link.authors }}{% if link.year %} ({{ link.year }}){% endif %}. </p>
+      <p class="pub-title">{{ link.title }}. <em>{{ link.conference }}</em>.</p>
       <p class="pub-links">
         {% if link.pdf %}<a href="{{ link.pdf }}" target="_blank">PDF</a>{% endif %}
         {% if link.code %}<a href="{{ link.code }}" target="_blank">Code</a>{% endif %}
