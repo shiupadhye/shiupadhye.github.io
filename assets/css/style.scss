@@ -84,17 +84,16 @@ body {
   margin-top: 1rem;
 }
 
-.content {
+body:not(.homepage) .content {
   max-width: 800px;
   margin: 2rem auto;
   padding: 0 1.5rem;
 }
 
-.content h1,
-.content h2,
-.content h3 {
+body:not(.homepage) .content h1,
+body:not(.homepage) .content h2,
+body:not(.homepage) .content h3 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
-
 
