@@ -32,7 +32,7 @@ main:
     pdf: "https://openreview.net/pdf?id=mlUfYl4ss_R"
     code: "https://github.com/shiupadhye/InfoTheoreticDisfModel"
 
-- title: "Predicting Reference: What do Language Models learn about Discourse Models?"
+  - title: "Predicting Reference: What do Language Models learn about Discourse Models?"
     authors: "<strong>Upadhye S.<strong>*, Bergen L., and Kehler, A."
     year: 2020
     conference_short: "EMNLP"
