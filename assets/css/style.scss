@@ -16,7 +16,7 @@
 }
 
 .custom-nav .page-link {
-  color: #003366;
+  color: teal;
   text-decoration: none;
   font-weight: bold;
 }
@@ -107,6 +107,32 @@ strong, b {
   color: inherit !important;
   font-family: inherit !important;
 }
+
+/* HOMEPAGE STYLING */
+body.homepage {
+  /* base body text */
+}
+
+body.homepage p,
+body.homepage li,
+body.homepage span,
+body.homepage email,
+body.homepage autocolor {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Homepage name/title */
+body.homepage h1 {
+  color: teal;
+}
+
+/* About Me heading */
+body.homepage h2,
+body.homepage h3 {
+  color: teal;
+}
+
 
 // PUBLICATIONS
 .pub-item {
