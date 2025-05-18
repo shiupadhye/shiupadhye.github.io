@@ -34,6 +34,8 @@ permalink: /research/
 
 <h2 class="pub-header"> Conference Presentations</h2>
 
+<div class="presentation-entry">
+
 <p><strong>Upadhye S.</strong> & Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice <em>47th Annual Meeting of the Cognitive Science Society.</em> San Francisco, CA, USA. <strong>Upcoming.</strong> (<strong>Talk</strong>)</p>
 
 <p><strong>Upadhye S.</strong>, Yeaton, JD., Yi, E., & Hickok, G. (2025). Typing Fluency reveals Psycholinguistic Dynamics of Sentence Production <em>The 38th Annual Conference on Human Sentence Processing.</em> College Park, MD, USA. (<strong>Poster</strong>)</p>
@@ -51,6 +53,6 @@ permalink: /research/
 <p>Li, J.*, <strong>Upadhye, S</strong>.* & Futrell, R. (2023). Bridging production and comprehension: A computational model of error generation and correction <em>The 36th Annual Conference on Human Sentence Processing.</em> Pittsburgh, PA, USA. (<strong>Poster</strong>)</p>
 
 <p><strong>Upadhye S.</strong> & Futrell R. (2022). Information-theoretic analysis of disfluencies in speech <em>NeurIPS 2022 Workshop on Information Theoretic Principles in Cognitive Systems.</em> New Orleans, LA, USA. (<strong>Poster</strong>)</p>
-
+</div>
 
 
