@@ -3,14 +3,17 @@
 
 @import "minimal-light";
 
+/* ----------------- NAVIGATION ----------------- */
+
 .custom-nav {
   display: flex;
-  justify-content: flex-end;  /* <- right-aligns the links */
+  justify-content: flex-end;
   align-items: center;
   gap: 1rem;
   padding: 1rem 0;
   font-size: 1.25rem;
   font-family: Georgia, serif;
+  margin-top: 1rem;
 }
 
 .custom-nav .page-link {
@@ -23,67 +26,16 @@
   text-decoration: underline;
 }
 
-.wrapper > header {
-  margin-top: 0;
-  padding-top: 0;
-}
+/* ----------------- LAYOUT ----------------- */
 
-strong, b {
-  font-weight: bold !important;
-  color: inherit !important;
-  font-family: inherit !important;
-}
-
-.pub-item {
-  margin-bottom: 2rem;
-}
-
-.pub-entry,
-.pub-venue {
-  margin: 0;
-  font-size: 1rem;
-  line-height: 1.5;
-}
-
-.pub-venue {
-  font-style: italic;
-}
-
-.pub-links {
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
-}
-
-.pub-links a {
-  margin-right: 1rem;
-  color: #2280c3;
-  text-decoration: none;
-}
-
-.pub-links a:hover {
-  text-decoration: underline;
-}
-
-.pub-note {
-  font-style: italic;
-  color: #c0392b;
-  margin-left: 0.5rem;
-}
-
-body {
-  padding-top: 2rem;
-}
-
+/* Homepage and all pages use wrapper for centering */
 .wrapper {
   max-width: 800px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 2rem 1.5rem 0;
 }
 
-.custom-nav {
-  margin-top: 1rem;
-}
-
+/* Apply extra spacing only to internal pages using .content */
 body:not(.homepage) .content {
   max-width: 800px;
   margin: 2rem auto;
@@ -93,7 +45,5 @@ body:not(.homepage) .content {
 body:not(.homepage) .content h1,
 body:not(.homepage) .content h2,
 body:not(.homepage) .content h3 {
-  margin-top: 1.5rem;
-  margin-bottom: 1rem;
-}
+  margin-top:
 
