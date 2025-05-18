@@ -35,32 +35,30 @@ strong, b {
   font-family: inherit !important;
 }
 
-.pub-list {
-  margin: 0;
-}
-
 .pub-item {
-  margin-bottom: 1.5rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #eee;
+  margin-bottom: 2rem;
 }
 
-.pub-title {
-  font-weight: 600;
-  color: #2280c3;
-  margin-bottom: 0.2rem;
-  font-size: 1.05rem;
+.pub-entry {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
-.pub-authors,
+.pub-entry strong {
+  font-weight: bold;
+  color: #000;
+}
+
 .pub-venue {
-  margin: 0.1rem 0;
-  font-size: 0.95rem;
+  margin: 0.2rem 0 0.5rem;
+  font-size: 1rem;
+  font-style: italic;
 }
 
 .pub-links {
-  margin-top: 0.2rem;
-  font-size: 0.9rem;
+  margin-top: 0.25rem;
+  font-size: 0.95rem;
 }
 
 .pub-links a {
@@ -73,9 +71,4 @@ strong, b {
   text-decoration: underline;
 }
 
-.pub-note {
-  font-style: italic;
-  color: #c0392b;
-  margin-left: 0.5rem;
-}
 
