@@ -53,6 +53,17 @@ body.homepage .image.avatar img {
   margin: 0 0 1rem 0;
 }
 
+.split-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.avatar-container {
+  flex-shrink: 0;
+}
+
 // TYPOGRAPHY
 strong, b {
   font-weight: bold !important;
