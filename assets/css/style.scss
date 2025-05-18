@@ -64,6 +64,32 @@ body.homepage .image.avatar img {
   flex-shrink: 0;
 }
 
+.homepage-container {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.sidebar {
+  max-width: 250px;
+  flex-shrink: 0;
+}
+
+.image.avatar img {
+  max-width: 150px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
+
+
 // TYPOGRAPHY
 strong, b {
   font-weight: bold !important;
