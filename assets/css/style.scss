@@ -5,13 +5,12 @@
 
 .custom-nav {
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;  /* <- right-aligns the links */
   align-items: center;
   gap: 1rem;
   padding: 1rem 0;
   font-size: 1.25rem;
   font-family: Georgia, serif;
-  font-weight: bold;
 }
 
 .custom-nav .page-link {
