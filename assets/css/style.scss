@@ -141,8 +141,8 @@ body.homepage h3 {
 
 .pub-entry,
 .pub-venue {
-  font-size: 1.1rem;  
-  line-height: 1.7;
+  font-size: 1.2rem;  
+  line-height: 1.8;
 }
 
 .pub-venue {
@@ -168,6 +168,11 @@ body.homepage h3 {
   font-style: italic;
   color: #c0392b;
   margin-left: 0.5rem;
+}
+
+.presentation-entry {
+  font-size: 1.2rem;  /* slightly larger than body text */
+  line-height: 1.8;
 }
 
 
