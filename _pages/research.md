@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-
 <h2 class="pub-header">Publications</h2>
 
 <div class="pub-list">
@@ -15,13 +14,12 @@ permalink: /research/
         {{ link.authors 
           | replace: "Yaoyao Liu*", "<strong>Yaoyao Liu*</strong>" 
           | replace: "Yaoyao Liu", "<strong>Yaoyao Liu</strong>" 
-        }}
-        {% if link.year %} ({{ link.year }}){% endif %}. {{ link.title }}.
+        }}. 
+        {% if link.year %}({{ link.year }}).{% endif %}
+        {{ link.title }}.
       </p>
 
-      <p class="pub-venue">
-        <em>{{ link.conference }}</em>.
-      </p>
+      <p class="pub-venue"><em>{{ link.conference }}</em>.</p>
 
       <p class="pub-links">
         {% if link.pdf %}<a href="{{ link.pdf }}" target="_blank">PDF</a>{% endif %}
