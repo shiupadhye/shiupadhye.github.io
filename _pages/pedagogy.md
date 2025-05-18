@@ -10,11 +10,11 @@ permalink: /pedagogy/
 LSCI 3: Introduction to Linguistics (Summer Session I, 2025) </strong> 
 
 *Teaching Assistant* <br>
-LSCI 3: Introduction to Linguistics </strong>
-LSCI 2: Discovering Language </strong> <br>
-LSCI 150: Psychology of Language </strong> <br>
-PSYCH 112M: Research Methods in Psychology </strong> <br>
-PoliSci 121G: American Public Policy </strong> <br>
+LSCI 3: Introduction to Linguistics <br>
+LSCI 2: Discovering Language <br>
+LSCI 150: Psychology of Language  <br>
+PSYCH 112M: Research Methods in Psychology <br>
+PoliSci 121G: American Public Policy  <br>
 
 *Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022)* <br>
 Fellowship awarded by the Division of Teaching Excellence and Innovation (DTEI) for development and improvement of hybrid pedagogy.
