@@ -7,12 +7,10 @@ permalink: /research/
 
 ### Presentations
 
-**Upadhye S.** & Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice (2025). 
-
+**Upadhye S.** & Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice (2025). <br>
 *47th Annual Meeting of the Cognitive Science Society.* San Francisco, CA, USA. *Upcoming.* (**Talk**)
 
-**Upadhye S.**, Yeaton, JD., Yi, E., & Hickok, G. (2025). Typing Fluency reveals Psycholinguistic Dynamics of Sentence Production.
-
+**Upadhye S.**, Yeaton, JD., Yi, E., & Hickok, G. (2025). Typing Fluency reveals Psycholinguistic Dynamics of Sentence Production. <br>
 *The 38th Annual Conference on Human Sentence Processing.* College Park, MD, USA. (**Poster**)
 
 *Li J.*, **Upadhye S.***,* & Futrell, R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. 
