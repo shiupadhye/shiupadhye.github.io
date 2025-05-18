@@ -1,6 +1,5 @@
 ---
 ---
-
 /* SCSS for custom site styles */
 
 // NAVIGATION
@@ -45,31 +44,12 @@ body:not(.homepage) .content h3 {
   margin-bottom: 1rem;
 }
 
-body.homepage .image.avatar img {
-  max-width: 180px;
-  height: auto;
-  border-radius: 50%;
-  display: inline-block;
-  margin: 0 0 1rem 0;
-}
-
+// HOMEPAGE LAYOUT
 .split-header {
   display: flex;
   align-items: center;
   gap: 2rem;
   flex-wrap: wrap;
-}
-
-.sidebar h1 {
-  margin-bottom: 0.25rem;
-}
-
-.sidebar .position {
-  margin-top: 0;
-}
-
-.avatar-container {
-  margin-left: -1rem; 
 }
 
 .homepage-container {
@@ -85,7 +65,21 @@ body.homepage .image.avatar img {
   flex-shrink: 0;
 }
 
-.image.avatar img {
+.sidebar h1 {
+  margin-bottom: 0.25rem;
+  font-size: 1.5rem; // locked to prevent body text override
+}
+
+.sidebar .position {
+  margin-top: 0;
+}
+
+.avatar-container {
+  margin-left: -1rem;
+}
+
+.image.avatar img,
+body.homepage .image.avatar img {
   max-width: 150px;
   height: auto;
   border-radius: 50%;
@@ -97,19 +91,20 @@ body.homepage .image.avatar img {
   min-width: 0;
 }
 
+.bio {
+  margin-left: 2rem;
+}
+
+// SOCIAL ICONS
 .social-icons a {
   text-decoration: none;
   color: inherit;
-  margin-right: 1rem; /* space between icons */
+  margin-right: 1rem;
 }
 
 .social-icons i {
   font-size: 1.3rem;
   vertical-align: middle;
-}
-
-.bio {
-  margin-left: 2rem; /* Add space between avatar section and about text */
 }
 
 // TYPOGRAPHY
@@ -119,36 +114,25 @@ strong, b {
   font-family: inherit !important;
 }
 
-body {
-  font-size: 1.2rem; /* or 1.1rem for slightly more */
+// BODY TEXT FONT SIZE — applies to general text only
+body p,
+body li,
+body span,
+body .bio,
+body .main-content {
+  font-size: 1.1rem;
   line-height: 1.7;
 }
 
-/* HOMEPAGE STYLING */
-body.homepage {
-  /* base body text */
-}
-
-body.homepage p,
-body.homepage li,
-body.homepage span,
-body.homepage email,
-body.homepage autocolor {
-  font-size: 1.05rem;
-  line-height: 1.7;
-}
-
-/* Homepage name/title */
+// HOMEPAGE SPECIFIC HEADING COLORS
 body.homepage h1 {
   color: #8B008B;
 }
 
-/* About Me heading */
 body.homepage h2,
 body.homepage h3 {
   color: #8B008B;
 }
-
 
 // PUBLICATIONS
 .pub-item {
@@ -186,4 +170,5 @@ body.homepage h3 {
   color: #c0392b;
   margin-left: 0.5rem;
 }
+
 
