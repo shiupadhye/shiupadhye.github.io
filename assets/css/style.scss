@@ -27,6 +27,7 @@
 }
 
 strong, b {
-  font-weight: bold;
-  color: inherit;
+  font-weight: bold !important;
+  color: inherit !important;
+  font-family: inherit !important;
 }
