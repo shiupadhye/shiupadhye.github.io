@@ -4,8 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
+*= Equal Contribution
 
-<h2 class="pub-header">Publications</h2>
+<h1 class="pub-header">Publications</h1>
 
 <div class="pub-list">
   {% for link in site.data.publications.main %}
@@ -32,7 +33,7 @@ permalink: /research/
   {% endfor %}
 </div>
 
-<h2 class="pub-header"> Conference Presentations</h2>
+<h1 class="pub-header"> Conference Presentations</h1>
 
 <div class="presentation-entry">
 
