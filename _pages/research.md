@@ -5,7 +5,35 @@ permalink: /research/
 ---
 
 
-{% include publications.md %}
+<h2>Publications</h2>
+
+<ol class="publications-list">
+  {% for link in site.data.publications.main %}
+    <li class="publication-item">
+
+      <p class="title">
+        {% if link.title_url %}
+          <a href="{{ link.title_url }}" target="_blank">{{ link.title }}</a>
+        {% else %}
+          {{ link.title }}
+        {% endif %}
+      </p>
+
+      <p class="authors">{{ link.authors }}</p>
+      <p class="conference">{{ link.conference }}</p>
+
+      <p class="links">
+        {% if link.pdf %}<a href="{{ link.pdf }}" target="_blank">PDF</a>{% endif %}
+        {% if link.code %}<a href="{{ link.code }}" target="_blank">Code</a>{% endif %}
+        {% if link.page %}<a href="{{ link.page }}" target="_blank">Project Page</a>{% endif %}
+        {% if link.bibtex %}<a href="{{ link.bibtex }}" target="_blank">BibTex</a>{% endif %}
+        {% if link.notes %}<span class="note">{{ link.notes }}</span>{% endif %}
+        {% if link.others %}<span class="note">{{ link.others }}</span>{% endif %}
+      </p>
+
+    </li>
+  {% endfor %}
+</ol>
 
 
 ## Presentations
