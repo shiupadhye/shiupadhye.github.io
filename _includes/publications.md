@@ -1,7 +1,5 @@
 <div>
-  
 <h2 class="pub-header">Publications</h2>
-
 <div class="pub-list">
   {% for link in site.data.publications.main %}
     <div class="pub-item">
@@ -25,7 +23,6 @@
         {% if link.notes %}<span class="pub-note">{{ link.notes }}</span>{% endif %}
         {% if link.others %}<span class="pub-note">{{ link.others }}</span>{% endif %}
       </p>
-
     </div>
   {% endfor %}
 </div>
