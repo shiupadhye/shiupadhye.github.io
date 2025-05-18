@@ -16,8 +16,7 @@ main:
     pdf: https://github.com/shiupadhye/CogSci25-FutureContextPredictability/blob/main/CogSci25_FutureContextPredictability_CameraReady.pdf
     code: https://github.com/shiupadhye/CogSci25-FutureContextPredictability/tree/main
 
-
-- title: "Typing time PWI: A scalable paradigm for studying lexical production."
+  - title: "Typing time PWI: A scalable paradigm for studying lexical production."
     authors: <strong>Upadhye S.<strong>* and Futrell, R.
     year: 2023
     conference_short: Cogsci
@@ -26,7 +25,7 @@ main:
     code: https://github.com/shiupadhye/typingTimePWI
 
 
-- title: " Information-theoretic analysis of disfluencies in speech."
+  - title: " Information-theoretic analysis of disfluencies in speech."
     authors: <strong>Upadhye S.<strong>* and Futrell, R.
     year: 2022
     conference_short: InfoCog@NeurIPS
