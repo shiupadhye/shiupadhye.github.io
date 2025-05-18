@@ -5,13 +5,15 @@
 
 .custom-nav {
   text-align: center;
-  margin-top: 1rem;
-  font-size: 1.25rem; /* larger text */
-  font-family: Georgia, serif; /* to match "About Me", if that's using a serif */
+  margin: 0 auto;
+  padding-top: 1rem; /* optional */
+  padding-bottom: 1rem; /* space below the nav bar */
+  font-size: 1.25rem;
+  font-family: Georgia, serif;
 }
 
 .custom-nav .page-link {
-  color: #003366; /* match your site's headline blue */
+  color: #003366;
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
