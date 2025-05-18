@@ -11,5 +11,3 @@ Currently, I find myself fascinated by a paradox at the heart of language produc
 Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science, Machine Learning, and Neural Computation with a minor in Math at UC San Diego. While at UCSD, I worked on investigating  lexico-semantic, pragmatic, and discourse structure knowledge in LLMs. 
 
 Outside of all this, I enjoy books, board games of all sorts, (attempts at) gardening, and skating on (not so) thin ice! ⛸️
-
-
