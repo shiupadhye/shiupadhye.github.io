@@ -29,6 +29,8 @@ navigation:
     url: "/"
   - title: "Research"
     url: "/research/"
+  - title: "Pedagogy"
+    url: "/pedagogy/"
 
 collections:
   pages:
