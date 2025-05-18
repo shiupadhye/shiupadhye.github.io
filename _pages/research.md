@@ -4,12 +4,25 @@ title: "Research"
 permalink: /research/
 ---
 
+
 <h2 class="pub-header">Publications</h2>
+
 <div class="pub-list">
   {% for link in site.data.publications.main %}
     <div class="pub-item">
-      <p class="pub-authors">{{ link.authors }}{% if link.year %} ({{ link.year }}){% endif %}. </p>
-      <p class="pub-title">{{ link.title }}. <em>{{ link.conference }}</em>.</p>
+
+      <p class="pub-authors">
+        {{ link.authors 
+          | replace: "Yaoyao Liu*", "<strong>Yaoyao Liu*</strong>" 
+          | replace: "Yaoyao Liu", "<strong>Yaoyao Liu</strong>" 
+        }}
+        {% if link.year %} ({{ link.year }}){% endif %}.
+      </p>
+
+      <p class="pub-title">
+        {{ link.title }}. <em>{{ link.conference }}</em>.
+      </p>
+
       <p class="pub-links">
         {% if link.pdf %}<a href="{{ link.pdf }}" target="_blank">PDF</a>{% endif %}
         {% if link.code %}<a href="{{ link.code }}" target="_blank">Code</a>{% endif %}
@@ -18,6 +31,7 @@ permalink: /research/
         {% if link.notes %}<span class="pub-note">{{ link.notes }}</span>{% endif %}
         {% if link.others %}<span class="pub-note">{{ link.others }}</span>{% endif %}
       </p>
+
     </div>
   {% endfor %}
 </div>
