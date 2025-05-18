@@ -60,6 +60,14 @@ body.homepage .image.avatar img {
   flex-wrap: wrap;
 }
 
+.sidebar h1 {
+  margin-bottom: 0.25rem;
+}
+
+.sidebar .position {
+  margin-top: 0;
+}
+
 .avatar-container {
   flex-shrink: 0;
 }
