@@ -4,7 +4,7 @@ title: "Pedagogy"
 permalink: /pedagogy/
 ---
 
-<h1 class="pub-header"> University of California, Irvine </h1>
+<h2 class="pub-header"> University of California, Irvine </h2>
 
 <div class="presentation-entry">
 <p> <em> Instructor of record  </em> <br>
@@ -21,13 +21,13 @@ PoliSci 121G: American Public Policy  <br> </p>
 Fellowship awarded by the Division of Teaching Excellence and Innovation (DTEI) for development and improvement of hybrid pedagogy. </p>
 
 
-<h1 class="pub-header"> University of California, San Diego </h1>
+<h2 class="pub-header"> University of California, San Diego </h2>
 
 <p> <em> Instructional Assistant </em> <br>
 LIGN 165: Computational Linguistics </p>
 
 
-<h1 class="pub-header"> Mentorship </h1>
+<h2 class="pub-header"> Mentorship </h2>
 
 <p> Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (Fellowship awarded to mentee for AY 2024-2025) </p>
 
