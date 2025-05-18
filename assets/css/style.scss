@@ -67,7 +67,8 @@ body:not(.homepage) .content h3 {
 
 .sidebar h1 {
   margin-bottom: 0.25rem;
-  font-size: 1.5rem; // locked to prevent body text override
+  font-size: 1.7rem; // locked to prevent body text override
+  font-family: Georgia, serif;
 }
 
 .sidebar .position {
@@ -80,7 +81,7 @@ body:not(.homepage) .content h3 {
 
 .image.avatar img,
 body.homepage .image.avatar img {
-  max-width: 200px;
+  max-width: 225px;
   height: auto;
   border-radius: 50%;
   margin-bottom: 1rem;
