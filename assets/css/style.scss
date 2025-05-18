@@ -39,25 +39,19 @@ strong, b {
   margin-bottom: 2rem;
 }
 
-.pub-entry {
+.pub-entry,
+.pub-venue {
   margin: 0;
   font-size: 1rem;
   line-height: 1.5;
 }
 
-.pub-entry strong {
-  font-weight: bold;
-  color: #000;
-}
-
 .pub-venue {
-  margin: 0.2rem 0 0.5rem;
-  font-size: 1rem;
   font-style: italic;
 }
 
 .pub-links {
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
   font-size: 0.95rem;
 }
 
@@ -71,4 +65,9 @@ strong, b {
   text-decoration: underline;
 }
 
+.pub-note {
+  font-style: italic;
+  color: #c0392b;
+  margin-left: 0.5rem;
+}
 
