@@ -6,7 +6,7 @@ layout: homepage
 
 ( My last name is pronounced  */'upadʰje/*, but I'll respond to */'upaðje/* or *oo - pa - the - ye* ) 
 
-I'm a PhD candidate studying Psycholinguistics and Cognitive Psychology (aka Language Science) at the University of California, Irvine, where I'm advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). Broadly speaking, I'm interested in understanding the representations and mechanisms underlying language use in humans and LLMs. 
+I'm a PhD candidate studying Psycholinguistics and Cognitive Psychology (aka Language Science) at the University of California, Irvine, where I'm advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). Broadly speaking, I'm interested in understanding the representations and mechanisms underlying language use in humans and Large Language Models (LLMs). 
 
 Currently, I find myself fascinated by a paradox at the heart of how we produce language — a process that looks tremendously complex on paper (decisions, decisions, every step of the way), yet somehow *feels* easy enough?! Much of my ongoing work combines computational cognitive modeling, corpus analysis, and behavioral methods to examine how cognitive resource constraints and performance demands shape choices in language production. 
 
