@@ -32,7 +32,10 @@ Graduate Mentor at *Undergraduate Research Opportunities Program (UROP) Fellowsh
 
 
 
-<strong> P.S. </strong>, As someone who didn't have the easiest of journeys into this rich, interdisciplinary, yet hard to define field, I'm happy to chat or help in any way that I can! Please don't hesitate to reach out if you think I can be of any service to you! 
+
+
+
+<strong> P.S. </strong>, As someone who didn't have the easiest of journeys into this rich, interdisciplinary, yet difficult to define field, I'm happy to chat or help in any way that I can! Please don't hesitate to reach out if you think I can be of any service to you! 
 
 
 
