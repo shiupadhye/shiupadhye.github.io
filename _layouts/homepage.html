@@ -53,11 +53,11 @@
     {% endif %}
 
     {% if site.affiliation %}
-    <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a><br>
+    <autocolor>{{ site.affiliation }}</autocolor> <br>
     {% endif %}
 
     {% if site.email %}
-    <email>{{ site.email }}</email><br>
+    <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a><br>
     {% endif %}
 
     <div class="social-icons">
