@@ -4,7 +4,7 @@ title: "Pedagogy"
 permalink: /pedagogy/
 ---
 
-### University of California, Irvine
+## University of California, Irvine
 
 *Instructor of record* <br>
 LSCI 3: Introduction to Linguistics (Summer Session I, 2025) </strong> 
@@ -20,13 +20,13 @@ PoliSci 121G: American Public Policy  <br>
 Fellowship awarded by the Division of Teaching Excellence and Innovation (DTEI) for development and improvement of hybrid pedagogy.
 
 
-### University of California, San Diego
+## University of California, San Diego
 
 *Instructional Assistant* <br>
 LIGN 165: Computational Linguistics </strong> 
 
 
-### Mentorship
+## Mentorship
 Graduate Mentor at *Undergraduate Research Opportunities Program (UROP) Fellowship* (Fellowship awarded to mentee for AY 2024-2025) <br>
 
 
