@@ -9,7 +9,7 @@ main:
     code: "https://github.com/goldengua/SPACER-CMCL"
 
   - title: "Examining Future Context Predictability Effects in Word-form Variation and Word Choice."
-    authors: "<strong>Upadhye S.</strong>* and Futrell, R."
+    authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2025
     conference_short: "Cogsci"
     conference: "Proceedings of the 47th Annual Meeting of the Cognitive Science Society."
@@ -17,7 +17,7 @@ main:
     code: "https://github.com/shiupadhye/CogSci25-FutureContextPredictability/tree/main"
 
   - title: "Typing time PWI: A scalable paradigm for studying lexical production."
-    authors: "<strong>Upadhye S.</strong>* and Futrell, R."
+    authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2023
     conference_short: "Cogsci"
     conference: "Proceedings of the 45th Annual Meeting of the Cognitive Science Society."
