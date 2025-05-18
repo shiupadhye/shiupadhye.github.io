@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "minimal-light";
+/* SCSS for custom site styles */
 
-/* ----------------- NAVIGATION ----------------- */
+// NAVIGATION
 .custom-nav {
   display: flex;
   justify-content: flex-end;
@@ -25,16 +25,13 @@
   text-decoration: underline;
 }
 
-/* ----------------- LAYOUT ----------------- */
-
-/* Homepage and all pages use wrapper for centering */
+// LAYOUT
 .wrapper {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem 1.5rem 0;
 }
 
-/* Apply extra spacing only to internal pages using .content */
 body:not(.homepage) .content {
   max-width: 800px;
   margin: 2rem auto;
@@ -44,5 +41,51 @@ body:not(.homepage) .content {
 body:not(.homepage) .content h1,
 body:not(.homepage) .content h2,
 body:not(.homepage) .content h3 {
-  margin-top:
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+// TYPOGRAPHY
+strong, b {
+  font-weight: bold !important;
+  color: inherit !important;
+  font-family: inherit !important;
+}
+
+// PUBLICATIONS
+.pub-item {
+  margin-bottom: 2rem;
+}
+
+.pub-entry,
+.pub-venue {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.pub-venue {
+  font-style: italic;
+}
+
+.pub-links {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.pub-links a {
+  margin-right: 1rem;
+  color: #2280c3;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-note {
+  font-style: italic;
+  color: #c0392b;
+  margin-left: 0.5rem;
+}
 
