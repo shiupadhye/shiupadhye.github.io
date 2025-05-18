@@ -1,22 +1,43 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    year: 2022
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    notes: Early Accept
+  - title: "SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs"
+    authors: <strong>Upadhye S.<strong>*, Li, J.*, Futrell, R.
+    year: 2025
+    conference_short: CMCL
+    conference: Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics
+    pdf: https://aclanthology.org/2025.cmcl-1.19.pdf
+    code: https://github.com/goldengua/SPACER-CMCL
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Examining Future Context Predictability Effects in Word-form Variation and Word Choice."
+    authors: <strong>Upadhye S.<strong>* and Futrell, R.
+    year: 2025
+    conference_short: Cogsci
+    conference: Proceedings of the 47th Annual Meeting of the Cognitive Science Society.
+    pdf: https://github.com/shiupadhye/CogSci25-FutureContextPredictability/blob/main/CogSci25_FutureContextPredictability_CameraReady.pdf
+    code: https://github.com/shiupadhye/CogSci25-FutureContextPredictability/tree/main
+
+
+- title: "Typing time PWI: A scalable paradigm for studying lexical production."
+    authors: <strong>Upadhye S.<strong>* and Futrell, R.
+    year: 2023
+    conference_short: Cogsci
+    conference: Proceedings of the 45th Annual Meeting of the Cognitive Science Society.
+    pdf: https://escholarship.org/content/qt2t73w1fx/qt2t73w1fx.pdf
+    code: https://github.com/shiupadhye/typingTimePWI
+
+
+- title: " Information-theoretic analysis of disfluencies in speech."
+    authors: <strong>Upadhye S.<strong>* and Futrell, R.
     year: 2022
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    conference_short: InfoCog@NeurIPS
+    conference: NeurIPS 2022 Workshop on Information Theoretic Principles in Cognitive Systems.
+    pdf: https://openreview.net/pdf?id=mlUfYl4ss_R
+    code: https://github.com/shiupadhye/InfoTheoreticDisfModel
+
+- title: "Predicting Reference: What do Language Models learn about Discourse Models?"
+    authors: <strong>Upadhye S.<strong>*, Bergen L., and Kehler, A.
+    year: 2020
+    conference_short: EMNLP
+    conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
+    pdf: https://aclanthology.org/2020.emnlp-main.70.pdf
+    code: https://github.com/shiupadhye/predicting-reference
