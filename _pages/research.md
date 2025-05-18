@@ -5,7 +5,6 @@ permalink: /research/
 ---
 
 <h2 class="pub-header">Publications</h2>
-
 <div class="pub-list">
   {% for link in site.data.publications.main %}
     <div class="pub-item">
