@@ -12,5 +12,4 @@ Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science, 
 
 Outside of all this, I enjoy books, board games of all sorts, (attempts at) gardening, and skating on (not so) thin ice! ⛸️
 
-{% include_relative _includes/publications.md %}
 
