@@ -31,7 +31,10 @@ LIGN 165: Computational Linguistics </p>
 
 <p> Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (awarded to mentee for AY 2024-2025) </p>
 
+<p> <small> <strong> P.S., <strong> Like many folks who eventually find themselves in the cognitive sciences, I started with more of a working definition than a neatly-defined target, major, and  career path (this was well before AI or LLMs had permeated public consciousness, granting cognitive science and computational linguistics a little more street cred). It took a whole lot of trial and error to stumble upon this niche, and I'm happy to pass on whatever I've learned. Please reach out if you believe I can help out in any way! </small>
+
 </div>
+
 
 
 
