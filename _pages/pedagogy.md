@@ -31,7 +31,7 @@ LIGN 165: Computational Linguistics </p>
 
 <p> Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (awarded to mentee for AY 2024-2025) </p>
 
-<p> <small> <strong> P.S., </strong>  Like many folks who eventually find themselves in the cognitive sciences, I started with more of a scrappy, working definition for a career path (this was well before AI or LLMs had really permeated public consciousness, which I think has lead to fewer quizzical looks when mentioning <em> cognitive science </em> and <em> computational linguistics </em> as career interests). It took a whole lot of trial and error to stumble upon this niche, and I'm happy to pass on whatever I've learned. Please reach out if you believe I can help out in any way! </small> </p>
+<p> <small> <strong> P.S., </strong>  Like many folks who eventually find themselves in the cognitive sciences, I started with more of a scrappy, working definition for a career path (this was well before AI or LLMs had really permeated public consciousness, which I think has lead to slightly fewer quizzical looks when mentioning <em> cognitive science </em> and <em> computational linguistics </em> as career interests). It took a whole lot of trial and error to stumble upon this niche, and I'm happy to pass on whatever I've learned. Please reach out if you believe I can help out in any way! </small> </p>
 
 </div>
 
