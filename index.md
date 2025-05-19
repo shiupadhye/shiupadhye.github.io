@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-( My last name is pronounced  */'upadʰje/*, but I'll respond to */'upaðje/* or *oo - pa - the - ye* ) 
+( My last name is pronounced  */'upadʰje/* with the voiced aspirated dental stop /dʰ/, but I'll respond to */'upaðje/* or *oo - pa - the - ye* ) 
 
 I'm a PhD candidate studying Psycholinguistics and Cognitive Psychology (aka Language Science) at the University of California, Irvine, where I'm advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). Broadly speaking, I'm interested in understanding the representations and mechanisms underlying language use in humans and Large Language Models (LLMs). 
 
