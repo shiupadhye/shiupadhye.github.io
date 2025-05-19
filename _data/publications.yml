@@ -1,7 +1,7 @@
 main:
 
   - title: "SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs"
-    authors: "<strong>Upadhye S.</strong>*, Li, J.*, Futrell, R."
+    authors: "<strong>Upadhye S.</strong>*, Li, J.*, and Futrell, R."
     year: 2025
     conference_short: "CMCL"
     conference: "Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics"
