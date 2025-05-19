@@ -47,7 +47,7 @@ permalink: /research/
 
 <p>Yeaton, JD, <strong>Upadhye, S.</strong>, Futrell, R., & Hickok, G. (2024). The (Non-)Sentence Repetition Task: A novel assessment of expressive and receptive syntactic competence. <em>16th Annual Meeting of the Society for the Neurobiology of Language.</em> Brisbane, Australia. (<strong>Poster</strong>)</p>
 
-<p><strong>Upadhye S.</strong>, Attali N. & Scontras, G. (2023). The role of world knowledge for interpreting aspect ambiguity <em>Tenth Biennial Meeting of Experimental Pragmatics. </em> Paris, France. (<strong>Poster</strong>)</p>
+<p><strong>Upadhye S.</strong>, Attali N. & Scontras, G. (2023). The role of world knowledge for interpreting aspect ambiguity. <em>Tenth Biennial Meeting of Experimental Pragmatics. </em> Paris, France. (<strong>Poster</strong>)</p>
 
 <p><strong>Upadhye S.</strong>*, Li, J.* & Futrell, R. (2023). Bridging production and comprehension: Toward an integrated computational model of error correction. <em>Society for Computation in Linguistics (SCiL 2023).</em> Amherst, MA, USA. (<strong>Poster</strong>)</p>
 
