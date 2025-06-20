@@ -45,7 +45,7 @@ permalink: /research/
 
 <p>Li J.*, <strong>Upadhye S.</strong>*, and Futrell, R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
 
-<p>Li Y., Li J., <strong>Upadhye S.</strong>, and Scontras, G. (2025). Language models prefer ambiguous utterances following informative contexts. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
+<p>Li Y., Li J., <strong>Upadhye S.</strong>, Attali, N., and Scontras, G. (2025). Language models prefer ambiguous utterances following informative contexts. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
 
 <p>Yeaton, JD, <strong>Upadhye, S.</strong>, Futrell, R., and Hickok, G. (2024). The (Non-)Sentence Repetition Task: A novel assessment of expressive and receptive syntactic competence. <em>16th Annual Meeting of the Society for the Neurobiology of Language.</em> Brisbane, Australia. (<strong>Poster</strong>)</p>
 
