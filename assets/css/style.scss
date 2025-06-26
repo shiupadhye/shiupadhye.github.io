@@ -81,7 +81,7 @@ body:not(.homepage) .content h3 {
 
 .image.avatar img,
 body.homepage .image.avatar img {
-  max-width: 175px;
+  max-width: 250px; // or whatever size you prefer
   height: auto;
   border-radius: 50%;
   margin-bottom: 1rem;
@@ -128,13 +128,14 @@ body .main-content {
 }
 
 // HOMEPAGE SPECIFIC HEADING COLORS
-body.homepage h1 {
-  color: #8B008B;
-}
-
+body.homepage h1,
 body.homepage h2,
-body.homepage h3 {
-  color: #8B008B;
+body.homepage h3,
+body.homepage p,
+body.homepage li,
+body.homepage span {
+  color: #000; // black font
+  font-size: 1.45rem; // increase from default 1.35rem
 }
 
 // PUBLICATIONS
