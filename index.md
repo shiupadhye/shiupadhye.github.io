@@ -12,4 +12,4 @@ Currently, I'm fascinated by a paradox at the heart of how we produce language �
 
 Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science, Machine Learning, and Neural Computation with a minor in Math at UC San Diego. While at UCSD, I worked on investigating lexico-semantic, pragmatic, and discourse structure knowledge in LLMs. Understanding the representational and mechanistic properties of LLMs is still very much a key research interest of mine, and some of my current projects use linguistically motivated approaches to explore pragmatic reasoning and mutual intelligibility in multilingual LLMs. 
 
-Outside of research, I enjoy fiction (particularly tragi/comedies 🎭), chess and all kinds of board games, and skating on (not so thin) ice! ⛸️
+Outside of research, I enjoy fiction (particularly tragi/comedies 🎭), chess, board games of all sorts, and skating on (not so thin) ice! ⛸️
