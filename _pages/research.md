@@ -36,6 +36,8 @@ permalink: /research/
 <h1 class="pub-header"> Conference Presentations</h1>
 
 <div class="presentation-entry">
+  
+<p> <strong> Upadhye S.</strong>*, Li, Y.*, Li, J.*, Attali, N., and Scontras, G. (2025). GPT-2's Comprehension and Production of Scope Ambiguity. <em> Pragmatic Reasoning in Lantuage Models  @ Conference on Language Modeling (COLM).</em> Montreal, Canada. <strong>Upcoming.</strong> (<strong>Poster</strong>)</p>
 
 <p> Yeaton, JD.*, <strong> Upadhye S.</strong>*, Yi, E., and Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 17th Annual Meeting of the Neurobiology of Language.</em> Washington DC, USA. <strong>Upcoming.</strong> (<strong>Poster</strong>)</p>
 
