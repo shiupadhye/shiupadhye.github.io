@@ -4,6 +4,7 @@ main:
     authors: "<strong>Upadhye S.</strong>*, Li Y.*, Li J.*, Attali N., and Scontras, G."
     year: 2025
     conference_short: "PragLM @ COLM 2025"
+    conference: "Pragmatic Reasoning in Language Models (PragLM) @ Conference on Language Modeling (COLM 2025)"
 
   - title: "Examining Future Context Predictability Effects in Word-form Variation and Word Choice."
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
