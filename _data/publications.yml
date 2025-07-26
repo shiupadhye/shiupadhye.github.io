@@ -11,7 +11,7 @@ main:
     year: 2025
     conference_short: "Cogsci"
     conference: "Proceedings of the 47th Annual Meeting of the Cognitive Science Society."
-    pdf: "https://github.com/shiupadhye/CogSci25-FutureContextPredictability/blob/main/CogSci25_FutureContextPredictability_CameraReady.pdf"
+    pdf: "https://escholarship.org/uc/item/314194w1"
     code: "https://github.com/shiupadhye/CogSci25-FutureContextPredictability/tree/main"
 
   - title: "SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs."
