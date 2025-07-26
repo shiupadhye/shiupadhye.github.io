@@ -123,7 +123,7 @@ body li,
 body span,
 body .bio,
 body .main-content {
-  font-size: 1.35rem;
+  font-size: 1.25rem;
   line-height: 1.8;
 }
 
@@ -135,12 +135,16 @@ body.homepage h4 {
   color: #8B008B; /* dark magenta */
 }
 
+body.homepage p,
+body.homepage li {
+  color: #000; /*black*/
+}
+
+
 body.homepage h1,
 body.homepage h2,
 body.homepage h3,
-body.homepage h4,
-body.homepage p,
-body.homepage li {
+body.homepage h4 {
   font-size: 1.35rem;
 }
 
