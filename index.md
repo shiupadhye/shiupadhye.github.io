@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+# About Me
 
 ( My last name is pronounced  */'upadʰje/* with a voiced aspirated dental plosive /dʰ/, but */'upaðje/* or *oo - pa - the - ye* is fine too) 
 
