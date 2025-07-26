@@ -131,12 +131,17 @@ body .main-content {
 body.homepage h1,
 body.homepage h2,
 body.homepage h3,
+body.homepage h4 {
+  color: #8B008B; /* dark magenta */
+}
+
+body.homepage h1,
+body.homepage h2,
+body.homepage h3,
 body.homepage h4,
 body.homepage p,
-body.homepage li,
-body.homepage span {
-  color: #8B008B; // black font
-  font-size: 1.35rem; // increase from default 1.35rem
+body.homepage li {
+  font-size: 1.35rem;
 }
 
 // PUBLICATIONS
