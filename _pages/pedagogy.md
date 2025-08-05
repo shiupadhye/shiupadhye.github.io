@@ -28,8 +28,9 @@ LIGN 165: Computational Linguistics </p>
 
 
 <h2 class="pub-header"> Mentorship </h2>
-
-<p> Graduate Mentor at <em> Undergraduate Research Opportunities Program (UROP) Fellowship </em> (awarded to mentee for AY 2024-2025) </p>
+<p> Mackenzie Maxwell -- Awarded the Undergraduate Research Opportunities Program (UROP) Fellowship for AY 2024-2025 </p>
+<p> Frankie Boren </p>
+<p> Rutvik Mohan Gandhasari </p>
 
 </div>
 
