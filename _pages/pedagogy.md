@@ -18,7 +18,7 @@ PSYCH 112M: Research Methods in Psychology <br>
 PoliSci 121G: American Public Policy  <br> </p>
 
 <p> <em> Fellowships </em> <br>
-UCI **Division of Teaching Excellence and Innovation** Graduate Summer Fellow (2022) </em> <br>
+UCI Division of Teaching Excellence and Innovation Graduate Summer Fellow (2022) </em> <br>
 
 <p> <em> Mentoring </em> <br>
 Mackenzie Maxwell (UCI) -- Awarded the Undergraduate Research Opportunities Program (UROP) Fellowship for AY 2024-2025 <br>
