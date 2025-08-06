@@ -20,14 +20,14 @@ PoliSci 121G: American Public Policy  <br> </p>
 <p> <em> Fellowships </em> <br>
 Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022) </em> <br>
 
-<h2 class="pub-header"> Mentorship </h2>
-<p> Mackenzie Maxwell -- Awarded the Undergraduate Research Opportunities Program (UROP) Fellowship for AY 2024-2025 </p>
+<p> <em> Mentoring </em> <br>
+Mackenzie Maxwell (Undergrad Mentee) -- Awarded the Undergraduate Research Opportunities Program (UROP) Fellowship for AY 2024-2025 </p>
+Frankie Boren
 
 <h2 class="pub-header"> University of California, San Diego </h2>
 
 <p> <em> Instructional Assistant </em> <br>
 LIGN 165: Computational Linguistics </p>
-
 
 </div>
 
