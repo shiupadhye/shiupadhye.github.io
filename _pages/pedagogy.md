@@ -17,7 +17,7 @@ LSCI 150: Psychology of Language  <br>
 PSYCH 112M: Research Methods in Psychology <br>
 PoliSci 121G: American Public Policy  <br> </p>
 
-<p> <em> Fellowships </em> <br>
+<p> <em> Pedagogical Fellowships </em> <br>
 UCI Division of Teaching Excellence and Innovation Graduate Summer Fellow (2022) </em> <br>
 
 <p> <em> Mentoring </em> <br>
