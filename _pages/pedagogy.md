@@ -22,7 +22,6 @@ UCI Division of Teaching Excellence and Innovation Graduate Summer Fellow (2022)
 
 <p> <em> Mentoring </em> <br>
 Mackenzie Maxwell (Awarded the Undergraduate Research Opportunities Program Fellowship for AY 2024-2025) <br>
-Frankie Boren <br>
 
 <h2 class="pub-header"> University of California, San Diego </h2>
 
