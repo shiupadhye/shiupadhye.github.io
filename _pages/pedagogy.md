@@ -21,8 +21,7 @@ PoliSci 121G: American Public Policy  <br> </p>
 Division of Teaching Excellence and Innovation (DTEI) Graduate Summer Fellow (2022) </em> <br>
 
 <p> <em> Mentoring </em> <br>
-Mackenzie Maxwell (Undergrad Mentee) -- Awarded the Undergraduate Research Opportunities Program (UROP) Fellowship for AY 2024-2025 </p>
-Frankie Boren
+Mackenzie Maxwell (UCI) -- Awarded the Undergraduate Research Opportunities Program (UROP) Fellowship for AY 2024-2025 <br>
 
 <h2 class="pub-header"> University of California, San Diego </h2>
 
