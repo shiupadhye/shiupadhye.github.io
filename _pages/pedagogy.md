@@ -18,11 +18,11 @@ PSYCH 112M: Research Methods in Psychology <br>
 PoliSci 121G: American Public Policy  <br> </p>
 
 <p> <em> Other Pedagogical Experience </em> <br>
-UCI Division of Teaching Excellence and Innovation Graduate Summer Fellow (2022) </em> <br>
+UCI Division of Teaching Excellence and Innovation Graduate Summer Fellow (2022) </em> <br> </p>
 
 <p> <em> Mentoring </em> <br>
 Mackenzie Leigh Maxwell (Graduate Mentor; Mentee awarded the Undergraduate Research Opportunities Program Fellowship for AY 2024-2025) <br>
-Frankie Boren <br>
+Frankie Boren <br> </p>
 
 <h2 class="pub-header"> University of California, San Diego </h2>
 
