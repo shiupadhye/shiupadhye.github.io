@@ -22,7 +22,7 @@ PoliSci 121G: American Public Policy  <br> </p>
 Division of Teaching Excellence and Innovation - Graduate Summer Fellow (2022) <br> </p>
 
 <p> <em> Mentoring </em> <br>
-Mackenzie Leigh Maxwell (Awarded UROP Fellowship in AY 2024-2025) <br>
+Mackenzie Leigh Maxwell (Awarded UROP Fellowship for advised project in AY 2024-2025) <br>
 Frankie Boren <br> </p>
 
 <h2 class="pub-header"> University of California, San Diego </h2>
