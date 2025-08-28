@@ -22,7 +22,7 @@ PoliSci 121G: American Public Policy  <br> </p>
 UCI Division of Teaching Excellence and Innovation Graduate Summer Fellow (2022) </em> <br> </p>
 
 <p> <em> Mentoring </em> <br>
-Mackenzie Leigh Maxwell (Awarded the Undergraduate Research Opportunities Program Fellowship for AY 2024-2025) <br>
+Mackenzie Leigh Maxwell (Awarded UROP Fellowship for AY 2024-2025) <br>
 Frankie Boren <br> </p>
 
 <h2 class="pub-header"> University of California, San Diego </h2>
