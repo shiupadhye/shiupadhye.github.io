@@ -10,4 +10,4 @@ I'm a PhD candidate in Language Science at the University of California, Irvine,
 
 Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science, Machine Learning, and Neural Computation with a minor in Math at UC San Diego. During undergrad, I was a computational neurosciences intern at the National Center for Microscopy and Imaging Research (NCMIR), and my senior research focused on investigating lexico-semantic, pragmatic, and discourse structure knowledge in LMs. Understanding the representational and mechanistic properties of LMs is still an active research interest of mine, and some of my current projects use linguistically motivated approaches to explore pragmatic reasoning and mutual intelligibility in LMs. 
 
-Outside of research, I enjoy [books](https://www.goodreads.com/user/show/168787276-shiva-upadhye), theatre, Blitz/Rapid chess and assorted board games, and skating on (not so thin) ice!
+Outside of research, I enjoy [books](https://www.goodreads.com/user/show/168787276-shiva-upadhye), theatre, Blitz/Rapid chess, and skating on (not so thin) ice!
