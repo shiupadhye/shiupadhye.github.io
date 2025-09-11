@@ -13,7 +13,7 @@ LSCI 3: Introduction to Linguistics (Summer Session I, 2025) </p>
 <p> <em> Teaching Assistant </em> <br>
 LSCI 3: Introduction to Linguistics <br>
 LSCI 2: Discovering Language <br>
-LSCI 51: Acquisition of Language <br>
+LSCI 51/COGS 56L: Acquisition of Language <br>
 LSCI 150: Psychology of Language  <br>
 PSYCH 112M: Research Methods in Psychology <br>
 PoliSci 121G: American Public Policy  <br> </p>
