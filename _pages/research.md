@@ -37,7 +37,7 @@ permalink: /research/
 
 <div class="presentation-entry">
 
-<p> Yeaton, JD.*, <strong> Upadhye S.</strong>*, Yi, E., and Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 17th Annual Meeting of the Neurobiology of Language.</em> Washington DC, USA. <strong>Upcoming.</strong> (<strong>Poster</strong>)</p>
+<p> Yeaton, JD.*, <strong> Upadhye S.</strong>*, Yi, E., and Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 17th Annual Meeting of the Neurobiology of Language.</em> Washington DC, USA. (<strong>Poster</strong>)</p>
 
 <p><strong>Upadhye S.</strong> and Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>47th Annual Meeting of the Cognitive Science Society.</em> San Francisco, CA, USA. (<strong>Talk</strong>)</p>
 
