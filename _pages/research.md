@@ -37,7 +37,9 @@ permalink: /research/
 
 <div class="presentation-entry">
 
-<p> <strong> Upadhye S.</strong>, Yeaton, JD., Yi, E., and Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 66th Annual Meeting of the Psychonomic Society.</em> Denver CO, USA. (<strong>Poster</strong>)</p>
+<p>Li J.*, <strong>Upadhye S.*</strong>, Li. Y*, Attali, N., and Scontras, G. (2025). GPT-2 prefers ambiguous utterances following informative contexts. <em> BlackboxNLP @ EMNLP 2025. </em> Suzhou, Chine. (<strong>Poster</strong>) (Upcoming) </p>
+
+<p> <strong> Upadhye S.</strong>, Yeaton, JD., Yi, E., and Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 66th Annual Meeting of the Psychonomic Society.</em> Denver CO, USA. (<strong>Poster</strong>) (Upcoming) </p>
 
 <p><strong>Upadhye S.</strong> and Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>47th Annual Meeting of the Cognitive Science Society.</em> San Francisco, CA, USA. (<strong>Talk</strong>)</p>
 
