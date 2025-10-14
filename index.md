@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-( My last name is pronounced  */'upadʰje/* with a voiced aspirated dental plosive /dʰ/, but */'upaðje/* or *oo - pa - the - ye* is fine too) 
+( My last name is pronounced */'upadʰje/* with a voiced aspirated dental plosive /dʰ/, but */'upaðje/* or *oo - pa - the - ye* is fine too) 
 
 I'm a PhD candidate in the Department of Language Science at the University of California, Irvine, where I'm advised by [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/). Broadly speaking, I'm interested in understanding the representations and mechanisms underlying language use in humans and language models. Presently, I'm fascinated by several questions at the heart of language production — a process that *seems* deceptively easy, yet is tremendously complex because of the combinatorial explosion of choices at every turn. Much of my ongoing work — which draws on computational cognitive modeling, corpus analysis, and behavioral methods — focuses on how various constraints shape speaker choices.
 
