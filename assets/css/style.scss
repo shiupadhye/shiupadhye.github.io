@@ -47,7 +47,7 @@ body:not(.homepage) .content h3 {
 // HOMEPAGE LAYOUT
 .split-header {
   display: flex;
-  align-items: left;
+  align-items: center;
   gap: 2rem;
   flex-wrap: wrap;
 }
@@ -61,8 +61,9 @@ body:not(.homepage) .content h3 {
 }
 
 .sidebar {
-  max-width: 250px;
+  max-width: 300px;
   flex-shrink: 0;
+  margin-right: 2rem; 
 }
 
 .sidebar h1 {
