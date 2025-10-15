@@ -47,7 +47,7 @@ body:not(.homepage) .content h3 {
 // HOMEPAGE LAYOUT
 .split-header {
   display: flex;
-  align-items: center;
+  align-items: left;
   gap: 2rem;
   flex-wrap: wrap;
 }
@@ -94,7 +94,7 @@ body.homepage .image.avatar img {
 
 .bio {
   margin-left: 3.5rem;
-  font-size: 1.40rem;   /* adjust to taste */
+  font-size: 1.40rem;  
   line-height: 1.8;
 }
 
