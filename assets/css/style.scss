@@ -81,7 +81,7 @@ body:not(.homepage) .content h3 {
 
 .image.avatar img,
 body.homepage .image.avatar img {
-  max-width: 200px;
+  max-width: 350px;
   height: auto;
   border-radius: 50%;
   margin-bottom: 1rem;
@@ -94,7 +94,7 @@ body.homepage .image.avatar img {
 
 .bio {
   margin-left: 3.5rem;
-  font-size: 1.35rem;   /* adjust to taste */
+  font-size: 1.40rem;   /* adjust to taste */
   line-height: 1.8;
 }
 
@@ -127,7 +127,7 @@ body li,
 body span,
 body .bio,
 body .main-content {
-  font-size: 1.20rem;
+  font-size: 1.40rem;
   line-height: 1.8;
 }
 
