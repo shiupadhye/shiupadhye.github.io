@@ -6,7 +6,7 @@ permalink: /research/
 
 *= Equal Contribution
 
-<h1 class="pub-header">Peer-Reviewed Papers</h1>
+<h1 class="pub-header">Publications</h1>
 
 <div class="pub-list">
   {% for link in site.data.publications.main %}
