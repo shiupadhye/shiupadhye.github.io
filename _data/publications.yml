@@ -31,6 +31,13 @@ main:
     pdf: "https://escholarship.org/content/qt2t73w1fx/qt2t73w1fx.pdf"
     code: "https://github.com/shiupadhye/typingTimePWI"
 
+  - title: "Bridging production and comprehension: Toward an integrated computational model of error correction."
+    authors: "<strong>Upadhye S.</strong>*, Li, J, and Futrell, R."
+    year: 2023
+    conference_short: "SCiL"
+    conference: "Proceedings of the Society for Computation in Linguistics"
+    pdf: "https://openpublishing.library.umass.edu/scil/article/id/954/"
+
   - title: "Information-theoretic analysis of disfluencies in speech."
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2022
