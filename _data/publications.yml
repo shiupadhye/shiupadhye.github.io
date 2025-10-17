@@ -35,7 +35,7 @@ main:
     authors: "<strong>Upadhye S.</strong>*, Li, J, and Futrell, R."
     year: 2023
     conference_short: "SCiL"
-    conference: "Proceedings of the Society for Computation in Linguistics"
+    conference: "Proceedings of the Society for Computation in Linguistics 2023"
     pdf: "https://openpublishing.library.umass.edu/scil/article/id/954/"
 
   - title: "Information-theoretic analysis of disfluencies in speech."
