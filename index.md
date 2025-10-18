@@ -8,7 +8,7 @@ Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science w
 ### News
 **[Nov 2025]** I will present our poster on incremental and advance planning strategies in spoken and typed sentence production at the [66th Annual Meeting of Psychonomics Society](https://www.psychonomic.org/general/custom.asp?page=2025annualmeeting) in Denver, CO.
 
-**[Oct 2025 & Nov 2025]** Our work examining human-LLM alignment in the interpretation and production of the scopally ambiguous every-negation construction (e.g., *every vote doesn't count*) will feature at the [Pragamtic Reasoning in Language Models](https://sites.google.com/berkeley.edu/praglm/) and [BlackboxNLP](https://sites.google.com/berkeley.edu/praglm/) workshops at COLM and EMNLP, respectively.
+**[Oct 2025 & Nov 2025]** Our work examining human-LLM alignment in the interpretation and production of the scopally ambiguous every-negation construction (e.g., *every vote doesn't count*) will feature at the [PragLM](https://sites.google.com/berkeley.edu/praglm/) and [BlackboxNLP](https://sites.google.com/berkeley.edu/praglm/) workshops at COLM and EMNLP, respectively.
 
 
 
