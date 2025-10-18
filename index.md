@@ -6,9 +6,9 @@ I'm a PhD candidate in the Department of Language Science at the University of C
 Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science with a concentration in Machine Learning and Neural Computation and a minor in Math from UC San Diego. During undergrad, I was a computational neurosciences intern at the National Center for Microscopy and Imaging Research (NCMIR), and my senior research focused on investigating the interaction between lexico-semantic and discourse structure knowledge in LMs. Understanding the representational and mechanistic properties of LMs is still an active research interest of mine, and some of my ongoing projects in this realm use psycholinguistically motivated approaches to explore pragmatic reasoning and mutual intelligibility in LLMs.
 
 ### News
-**[Nov 2025]** I will present our poster on planning strategies in speech and typing modalities at the [66th Annual Meeting of Psychonomics Society](https://www.psychonomic.org/general/custom.asp?page=2025annualmeeting) in Denver, CO.
+**[Nov 2025]** I will present our poster on incremental and advance planning strategies in spoken and typed sentence production at the [66th Annual Meeting of Psychonomics Society](https://www.psychonomic.org/general/custom.asp?page=2025annualmeeting) in Denver, CO.
 
-**[Oct 2025]** Our work examining human-LLM alignment in the interpretation and production of the scopally ambiguous every-negation construction will feature at [PragLM Workshop @ COLM](https://sites.google.com/berkeley.edu/praglm/) in Montreal, Canada.
+**[Oct 2025 & Nov 2025]** Our work examining human-LLM alignment in the interpretation and production of the scopally ambiguous every-negation construction (e.g., *every vote doesn't count*) will feature at the [Pragamtic Reasoning in Language Models](https://sites.google.com/berkeley.edu/praglm/) and [BlackboxNLP](https://sites.google.com/berkeley.edu/praglm/) workshops at COLM and EMNLP, respectively.
 
 
 
