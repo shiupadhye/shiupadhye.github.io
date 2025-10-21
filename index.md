@@ -11,4 +11,4 @@ Before coming to UC Irvine, I earned my Bachelor's degree in Cognitive Science w
 ### Updates
 **[Nov 2025]** I will present our poster on trade-offs in advance and incremental planning in spoken and typed sentence production at [Psychonomics](https://www.psychonomic.org/general/custom.asp?page=2025annualmeeting) in Denver, CO. 
 
-**[Oct- Nov 2025]** Our work on human-LM alignment in the interpretation and production of the scopally ambiguous every-negation construction (e.g., *every vote doesn't count*) will feature at both the [PragLM](https://sites.google.com/berkeley.edu/praglm/) and [BlackBoxNLP](https://blackboxnlp.github.io/2025/) workshops at COLM and EMNLP, respectively.
+**[Oct - Nov 2025]** Our work on human-LM alignment in the interpretation and production of the scopally ambiguous every-negation construction (e.g., *every vote doesn't count*) will feature at both the [PragLM](https://sites.google.com/berkeley.edu/praglm/) and [BlackBoxNLP](https://blackboxnlp.github.io/2025/) workshops at COLM and EMNLP, respectively.
