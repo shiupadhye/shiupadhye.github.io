@@ -1,9 +1,9 @@
 main:
 
-  - title: "Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production (Under Review)"
+  - title: "Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production (Preprint; under review)"
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2025
-    preprint: "https://arxiv.org/pdf/2511.07752"
+    pdf: "https://arxiv.org/pdf/2511.07752"
 
   - title: "GPT-2's Comprehension and Production of Scope Ambiguity."
     authors: "<strong>Upadhye S.</strong>*, Li Y.*, Li J.*, Attali N., and Scontras, G."
