@@ -10,4 +10,4 @@ Broadly speaking, I'm interested in understanding the computational and cognitiv
 
 Conversely, I'm also interesting in using insights from cognitive science and psycholinguistic theory to decode (pun intended) language model behavior. My undergrad research focused on investigating how lexico-semantic and discourse structure knowledge shapes the choice of referring expressions in LMs. Understanding the representational and mechanistic properties of LMs is still an active research interest of mine, and some of my ongoing projects in this area use psycholinguistically motivated approaches to explore sentence planning, pragmatic reasoning, and mutual intelligibility in language models.
 
-<sub> \* Yes, there is such a thing as too much Southern California sunshine. It can be a real affliction for those of who prefer unreasonably extreme weather.</sub>
+<sub> \* Yes, there is such a thing as too much Southern California sunshine. It can be a real affliction for those who prefer unreasonably extreme weather.</sub>
