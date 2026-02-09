@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-*(My last name is pronounced /upadʰje/ but /upaðje/ or oo-pa-the-ye is a close approximation)*
+*(My last name is pronounced /upadʰje/ but /upaðje/ or oo-pa-the-ye is fine too)*
 
 I'm a fifth-year PhD student in the Department of Language Science at the University of California - Irvine, where I'm advised [Dr. Richard Futrell](https://www.socsci.uci.edu/~rfutrell/) and affiliated with the [Language Processing Group](https://langprocgroup.github.io/) and the [meaning lab](https://sites.socsci.uci.edu/~gscontra//meaning/). Before starting my PhD, I earned my Bachelor’s degree in Cognitive Science with a concentation in Machine Learning and Neural Computation with minor in Math from University of California - San Diego.*
 
