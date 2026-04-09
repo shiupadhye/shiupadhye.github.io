@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-*= Equal Contribution
 
 <h1 class="pub-header">Publications</h1>
 
