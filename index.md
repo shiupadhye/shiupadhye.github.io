@@ -10,12 +10,6 @@ Much of my work leverages theories and insights from cognitive science and psych
 I recently completed my PhD in [Language Science](https://www.langsci.uci.edu/) at the University of California - Irvine, where I was advised by Richard Futrell and affiliated with the [Language Processing Group](https://langprocgroup.github.io/) and the [meaning lab](https://sites.socsci.uci.edu/~gscontra//meaning/). 
 Before that, I earned my Bachelor’s degree in Cognitive Science with a concentration in Machine Learning and Neural Computation and a minor in Math from the University of California - San Diego. I also spent a year in industry, working on signal processing for optical sensing across a range of research applications.
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
