@@ -182,7 +182,6 @@ papertitle {
 
 }
 
-
 .image {
     border-radius: 0.35em;
     border: 0;
@@ -207,7 +206,8 @@ papertitle {
 }
 
 .image.avatar {
-    border-radius: 100%;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .image.avatar:before {
@@ -217,13 +217,13 @@ papertitle {
 .image.avatar img {
     display: block;
     width: 100%;
-    border-radius: 100%;
+    border-radius: 20px;
     padding: 0;
 }
 
 #header .image.avatar {
     margin: 0 0 1em 0;
-    width: 10em;   /* Increase from 8em to 10em */
+    width: 10em;
 }
 
 h3, h4, h5, h6 {
