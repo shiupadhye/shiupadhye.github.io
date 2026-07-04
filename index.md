@@ -13,6 +13,8 @@ Before that, I earned my Bachelor’s degree in Cognitive Science with a concent
 ## Research
 ### Publications
 
+<p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell, R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
+
 <p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production. <em>(Revise and Resubmit).</em></p>
 
 <p><strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em></p>
