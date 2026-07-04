@@ -31,7 +31,7 @@ Before that, I earned my Bachelor’s degree in Cognitive Science with a concent
 
 ### Presentations
 
-<p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em> Society for Computation in Linguistics.</em> San Diego, CA, USA /p> (<strong>Poster</strong>)</p>
+<p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em> Annual Meeting of the Society for Computation in Linguistics.</em> San Diego, CA, USA </p> (<strong>Poster</strong>)</p>
 
 <p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Repairing, Fast and Slow: Lexical and Contextaual Pressures on the Timecourse of Error Processing in Naturalistic Production. <em>The 39th Annual Conference on Human Sentence Processing. </em> Cambridge, MA, USA. (<strong>Poster</strong>)</p>
 
