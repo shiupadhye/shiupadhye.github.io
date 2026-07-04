@@ -11,43 +11,46 @@ Before that, I earned my Bachelor’s degree in Cognitive Science with a concent
 ## Research
 ### Publications
 
-<p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell, R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
+<p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
 
-<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production. <em>(Revise and Resubmit).</em></p>
+<p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production. <em>(Revise and Resubmit).</em></p>
 
 <p><strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em></p>
 
-<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em></p>
+<p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em></p>
 
-<p><strong>Upadhye S.</strong>, Li J., &amp; Futrell, R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics.</em></p>
+<p><strong>Upadhye S.</strong>, Li J., &amp; Futrell R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics.</em></p>
 
 <p><strong>Upadhye S.</strong> &amp; Futrell, R. (2023). Typing time PWI: A scalable paradigm for studying lexical production. <em>Proceedings of the 45th Annual Meeting of the Cognitive Science Society.</em></p>
 
-<p><strong>Upadhye, S.</strong>, Li, J., &amp; Futrell, R. (2023). Bridging production and comprehension: A computational model of error generation and correction. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
+<p><strong>Upadhye, S.</strong>, Li, J., &amp; Futrell R. (2023). Bridging production and comprehension: A computational model of error generation and correction. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
 
 <p><strong>Upadhye S.</strong> &amp; Futrell, R. (2022). Information-theoretic analyses of disfluencies in Speech. <em>NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognition Systems.</em></p>
 
-<p><strong>Upadhye S.</strong>, Bergen, L., &amp; Kehler, A. (2020). Predicting Reference: What do Language Models learn about Discourse Models? <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em></p>
+<p><strong>Upadhye S.</strong>, Bergen L., &amp; Kehler A. (2020). Predicting Reference: What do Language Models learn about Discourse Models? <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em></p>
 
 ### Presentations
-<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Repairing, Fast and Slow: Lexical and Contextaual Pressures on the Timecourse of Error Processing in Naturalistic Production. <em>The 39th Annual Conference on Human Sentence Processing. </em> Cambridge, MA, USA. (<strong>Poster</strong>)</p>
 
-<p> <strong> Upadhye S.</strong>, Yeaton, JD., Yi, E., &amp; Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 66th Annual Meeting of the Psychonomic Society.</em> Denver CO, USA. (<strong>Poster</strong>) </p>
+<p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em> Society for Computation in Linguistics.</em> San Diego, CA, USA /p> (<strong>Poster</strong>)</p>
 
-<p>Li J., <strong>Upadhye S.</strong>, Li. Y, Attali, N., &amp; Scontras, G. (2025). GPT-2 prefers ambiguous utterances following informative contexts. <em> BlackboxNLP @ EMNLP 2025. </em> Suzhou, China. (<strong>Poster</strong>) </p>
+<p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Repairing, Fast and Slow: Lexical and Contextaual Pressures on the Timecourse of Error Processing in Naturalistic Production. <em>The 39th Annual Conference on Human Sentence Processing. </em> Cambridge, MA, USA. (<strong>Poster</strong>)</p>
 
-<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>47th Annual Meeting of the Cognitive Science Society.</em> San Francisco, CA, USA. (<strong>Talk</strong>)</p>
+<p> <strong> Upadhye S.</strong>, Yeaton JD., Yi E., &amp; Hickok G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 66th Annual Meeting of the Psychonomic Society.</em> Denver CO, USA. (<strong>Poster</strong>) </p>
 
-<p><strong>Upadhye S.</strong>, Yeaton, JD., Yi, E., &amp; Hickok, G. (2025). Typing Fluency reveals Psycholinguistic Dynamics of Sentence Production. <em>The 38th Annual Conference on Human Sentence Processing.</em> College Park, MD, USA. (<strong>Poster</strong>)</p>
+<p>Li J., <strong>Upadhye S.</strong>, Li Y., Attali N., &amp; Scontras G. (2025). GPT-2 prefers ambiguous utterances following informative contexts. <em> BlackboxNLP @ EMNLP 2025. </em> Suzhou, China. (<strong>Poster</strong>) </p>
 
-<p>Li J., <strong>Upadhye S.</strong>, &amp; Futrell, R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
+<p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>47th Annual Meeting of the Cognitive Science Society.</em> San Francisco, CA, USA. (<strong>Talk</strong>)</p>
 
-<p>Li Y., Li J., <strong>Upadhye S.</strong>, Attali, N., &amp; Scontras, G. (2025). Language models prefer ambiguous utterances following informative contexts. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
+<p><strong>Upadhye S.</strong>, Yeaton JD., Yi E., &amp; Hickok G. (2025). Typing Fluency reveals Psycholinguistic Dynamics of Sentence Production. <em>The 38th Annual Conference on Human Sentence Processing.</em> College Park, MD, USA. (<strong>Poster</strong>)</p>
 
-<p>Yeaton, JD, <strong>Upadhye, S.</strong>, Futrell, R., &amp; Hickok, G. (2024). The (Non-)Sentence Repetition Task: A novel assessment of expressive and receptive syntactic competence. <em>16th Annual Meeting of the Society for the Neurobiology of Language.</em> Brisbane, Australia. (<strong>Poster</strong>)</p>
+<p>Li J., <strong>Upadhye S.</strong>, &amp; Futrell R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
 
-<p><strong>Upadhye S.</strong>, Attali N., &amp; Scontras, G. (2023). The role of world knowledge for interpreting aspect ambiguity. <em>Tenth Biennial Meeting of Experimental Pragmatics. </em> Paris, France. (<strong>Poster</strong>)</p>
+<p>Li Y., Li J., <strong>Upadhye S.</strong>, Attali N., &amp; Scontras G. (2025). Language models prefer ambiguous utterances following informative contexts. <em>The 38th Annual Conference on Human Sentence Processing. </em> College Park, MD, USA. (<strong>Poster</strong>)</p>
 
-<p>Li, J., <strong>Upadhye, S</strong>., &amp; Futrell, R. (2023). Bridging production and comprehension: A computational model of error generation and correction. <em>The 36th Annual Conference on Human Sentence Processing. </em> Pittsburgh, PA, USA. (<strong>Poster</strong>)</p>
+<p>Yeaton JD, <strong>Upadhye, S.</strong>, Futrell R., &amp; Hickok G. (2024). The (Non-)Sentence Repetition Task: A novel assessment of expressive and receptive syntactic competence. <em>16th Annual Meeting of the Society for the Neurobiology of Language.</em> Brisbane, Australia. (<strong>Poster</strong>)</p>
+
+<p><strong>Upadhye S.</strong>, Attali N., &amp; Scontras G. (2023). The role of world knowledge for interpreting aspect ambiguity. <em>Tenth Biennial Meeting of Experimental Pragmatics. </em> Paris, France. (<strong>Poster</strong>)</p>
+
+<p>Li, J., <strong>Upadhye, S</strong>., &amp; Futrell R. (2023). Bridging production and comprehension: A computational model of error generation and correction. <em>The 36th Annual Conference on Human Sentence Processing. </em> Pittsburgh, PA, USA. (<strong>Poster</strong>)</p>
 
 <p><strong>Upadhye S.</strong> &amp; Futrell R. (2022). Information-theoretic analysis of disfluencies in speech. <em>NeurIPS 2022 Workshop on Information Theoretic Principles in Cognitive Systems. </em> New Orleans, LA, USA. (<strong>Poster</strong>)</p>
