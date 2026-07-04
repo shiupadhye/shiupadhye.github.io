@@ -11,7 +11,24 @@ I recently completed my PhD in [Language Science](https://www.langsci.uci.edu/) 
 Before that, I earned my Bachelor’s degree in Cognitive Science with a concentration in Machine Learning and Neural Computation and a minor in Math from the University of California - San Diego. I also spent a year in industry, working on signal processing for optical sensing across a range of research applications.
 
 ## Research
-{% include_relative _includes/publications.md %}
+### Publications
+
+<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production. <em>(Revise and Resubmit).</em></p>
+
+<p><strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em></p>
+
+<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em></p>
+
+<p><strong>Upadhye S.</strong>, Li J., &amp; Futrell, R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics.</em></p>
+
+<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2023). Typing time PWI: A scalable paradigm for studying lexical production. <em>Proceedings of the 45th Annual Meeting of the Cognitive Science Society.</em></p>
+
+<p><strong>Upadhye, S.</strong>, Li, J., &amp; Futrell, R. (2023). Bridging production and comprehension: A computational model of error generation and correction. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
+
+<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2022). Information-theoretic analyses of disfluencies in Speech. <em>NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognition Systems.</em></p>
+
+<p><strong>Upadhye S.</strong>, Bergen, L., &amp; Kehler, A. (2020). Predicting Reference: What do Language Models learn about Discourse Models? <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em></p>
+
 ### Presentations
 <p><strong>Upadhye S.</strong> and Futrell, R. (2025). Repairing, Fast and Slow: Lexical and Contextaual Pressures on the Timecourse of Error Processing in Naturalistic Production. <em>The 39th Annual Conference on Human Sentence Processing. </em> Cambridge, MA, USA. (<strong>Poster</strong>)</p>
 
