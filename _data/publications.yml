@@ -5,64 +5,64 @@ main:
     year: 2026
     conference_short: "SCiL 2026"
     conference: "Proceedings of the Society for Computation in Linguistics 2026"
-    pdf: "https://aclanthology.org/2026.scil-main.41/"
+    #pdf: "https://aclanthology.org/2026.scil-main.41/"
 
   - title: "Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production (Under Review)"
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2025
-    pdf: "https://arxiv.org/pdf/2511.07752"
-    code: "https://github.com/shiupadhye/past-future-predictability-production"
+    #pdf: "https://arxiv.org/pdf/2511.07752"
+    #code: "https://github.com/shiupadhye/past-future-predictability-production"
     
   - title: "GPT-2's Comprehension and Production of Scope Ambiguity."
     authors: "<strong>Upadhye S.</strong>, Li Y., Li J., Attali N., and Scontras, G."
     year: 2025
     conference_short: "PragLM @ COLM 2025"
     conference: "Pragmatic Reasoning in Language Models (PragLM) @ Conference on Language Modeling (COLM 2025)"
-    pdf: "https://openreview.net/pdf?id=GtUWHED66F"
+    #pdf: "https://openreview.net/pdf?id=GtUWHED66F"
 
   - title: "Examining Future Context Predictability Effects in Word-form Variation and Word Choice."
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2025
     conference_short: "Cogsci"
     conference: "Proceedings of the 47th Annual Meeting of the Cognitive Science Society."
-    pdf: "https://escholarship.org/uc/item/314194w1"
-    code: "https://github.com/shiupadhye/CogSci25-FutureContextPredictability/tree/main"
+    #pdf: "https://escholarship.org/uc/item/314194w1"
+    #code: "https://github.com/shiupadhye/CogSci25-FutureContextPredictability/tree/main"
 
   - title: "SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs."
     authors: "<strong>Upadhye S.</strong>*, Li, J*., and Futrell, R."
     year: 2025
     conference_short: "CMCL"
     conference: "Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics"
-    pdf: "https://aclanthology.org/2025.cmcl-1.19.pdf"
-    code: "https://github.com/goldengua/SPACER-CMCL"
+    #pdf: "https://aclanthology.org/2025.cmcl-1.19.pdf"
+    #code: "https://github.com/goldengua/SPACER-CMCL"
 
   - title: "Typing time PWI: A scalable paradigm for studying lexical production."
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2023
     conference_short: "Cogsci"
     conference: "Proceedings of the 45th Annual Meeting of the Cognitive Science Society."
-    pdf: "https://escholarship.org/content/qt2t73w1fx/qt2t73w1fx.pdf"
-    code: "https://github.com/shiupadhye/typingTimePWI"
+    #pdf: "https://escholarship.org/content/qt2t73w1fx/qt2t73w1fx.pdf"
+    #code: "https://github.com/shiupadhye/typingTimePWI"
 
   - title: "Bridging production and comprehension: Toward an integrated computational model of error correction."
     authors: "<strong>Upadhye S.</strong>, Li, J, and Futrell, R."
     year: 2023
     conference_short: "SCiL"
     conference: "Proceedings of the Society for Computation in Linguistics 2023"
-    pdf: "https://openpublishing.library.umass.edu/scil/article/id/954/"
+    #pdf: "https://openpublishing.library.umass.edu/scil/article/id/954/"
 
   - title: "Information-theoretic analysis of disfluencies in speech."
     authors: "<strong>Upadhye S.</strong> and Futrell, R."
     year: 2022
     conference_short: "InfoCog@NeurIPS"
     conference: "NeurIPS 2022 Workshop on Information Theoretic Principles in Cognitive Systems."
-    pdf: "https://openreview.net/pdf?id=mlUfYl4ss_R"
-    code: "https://github.com/shiupadhye/InfoTheoreticDisfModel"
+    #pdf: "https://openreview.net/pdf?id=mlUfYl4ss_R"
+    #code: "https://github.com/shiupadhye/InfoTheoreticDisfModel"
 
   - title: "Predicting Reference: What do Language Models learn about Discourse Models?"
     authors: "<strong>Upadhye S.</strong>, Bergen L., and Kehler, A."
     year: 2020
     conference_short: "EMNLP"
     conference: "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing."
-    pdf: "https://aclanthology.org/2020.emnlp-main.70.pdf"
-    code: "https://github.com/shiupadhye/predicting-reference"
+    #pdf: "https://aclanthology.org/2020.emnlp-main.70.pdf"
+    #code: "https://github.com/shiupadhye/predicting-reference"
