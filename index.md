@@ -14,7 +14,7 @@ Before that, I earned my Bachelor’s degree in Cognitive Science with a concent
 ### Publications
 {% include_relative _includes/publications.md %}
 ### Presentations
-<p>Li J., <strong>Upadhye S.</strong>, and Futrell, R. (2025). Repairing, Fast and Slow: Lexical and Contextaual Pressures on the Timecourse of Error Processing in Naturalistic Production. <em>The 39th Annual Conference on Human Sentence Processing. </em> Cambridge, MA, USA. (<strong>Poster</strong>)</p>
+<p><strong>Upadhye S.</strong>, and Futrell, R. (2025). Repairing, Fast and Slow: Lexical and Contextaual Pressures on the Timecourse of Error Processing in Naturalistic Production. <em>The 39th Annual Conference on Human Sentence Processing. </em> Cambridge, MA, USA. (<strong>Poster</strong>)</p>
 
 <p> <strong> Upadhye S.</strong>, Yeaton, JD., Yi, E., and Hickok, G. (2025). Speakers and typers adapt their planning strategies to meet sentence production demands. <em> 66th Annual Meeting of the Psychonomic Society.</em> Denver CO, USA. (<strong>Poster</strong>) </p>
 
