@@ -158,6 +158,11 @@ papertitle {
     font-size: 100%;
   }
 
+body {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #20212b;
@@ -223,7 +228,7 @@ papertitle {
 
 #header .image.avatar {
     margin: 0 0 1em 0;
-    width: 7em;
+    width: 6em;
 }
 
 h3, h4, h5, h6 {
