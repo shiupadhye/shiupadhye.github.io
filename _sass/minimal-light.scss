@@ -231,7 +231,7 @@ body {
 
 header .image.avatar {
     display: block;
-    margin: 0 auto 1.2em;
+    margin: 0 0 1.2em;
     width: 195px;
     height: 235px;
 }
@@ -441,10 +441,11 @@ header ul a strong {
 }
 
 section {
-  width: 760px;
-  float: right;
-  padding-top: 4em;
-  padding-bottom: 50px;
+    width: 760px;
+    float: right;
+    padding-top: 4em;
+    padding-bottom: 50px;
+    padding-left: 2rem;
 }
 
 small {
