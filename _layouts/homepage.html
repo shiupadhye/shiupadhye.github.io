@@ -50,21 +50,14 @@
         {{ site.position }}
         </p>
         {% endif %}
-
+        
         {% if site.affiliation %}
-        <p style="font-size:1.1rem; margin:0.3rem 0;">
-        <a href="{{ site.affiliation_link }}" rel="noopener">
-          {{ site.affiliation }}
-        </a>
-        </p>
+        <p class="affiliation">{{ site.affiliation }}</p>
         {% endif %}
 
         {% if site.email %}
-        <p style="margin-top:0.3rem;">
-        {{ site.email }}
-        </p>
+        <p class="email">{{ site.email }}</p>
         {% endif %}
-        <br>
         
         <div class="social-icons">
 
