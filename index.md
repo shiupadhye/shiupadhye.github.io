@@ -9,7 +9,7 @@ I received my PhD in [Language Science](https://www.langsci.uci.edu/) from the U
 ## Research
 ### Publications
 
-<p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production. <em> Open Mind </em> (accepted). </p>
+<p><strong>Upadhye S.</strong> &amp; Futrell R. Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production. <em> Open Mind </em> (accepted). </p>
 
 <p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). Quantifying mutual intelligibility gradients in Turkic languages using language models. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
 
