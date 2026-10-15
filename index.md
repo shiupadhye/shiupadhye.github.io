@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am a Postdoctoral Scholar in the Department of Psychology at Tufts University, affiliated with the [NeuroCognition of Language Lab](https://kuperberglab.com/). My research interests lie at the intersection of language, cognition, and computation, with a focus on how humans and language models produce and process language. My current work also looks specifically at speech in clinical populations, drawing on computational and psycholinguistic approaches to develop linguistic markers that can inform clinical assessment.
+I am a Postdoctoral Scholar in the Department of Psychology at Tufts University, affiliated with the [NeuroCognition of Language Lab](https://kuperberglab.com/). My research interests lie at the intersection of language, cognition, and computation, with a focus on how humans and language models produce and process language. My current work also looks specifically at speech in clinical populations, drawing on computational and psycholinguistic approaches to develop linguistic markers, with implications for clinical assessment. 
 
 I received my PhD in [Language Science](https://www.langsci.uci.edu/) from the University of California - Irvine, where I was advised by [Dr. Richard Futrell](https://sites.socsci.uci.edu/~rfutrell/) and affiliated with the [Language Processing Group](https://langprocgroup.github.io/) and the [meaning lab](https://sites.socsci.uci.edu/~gscontra//meaning/). Before that, I earned my Bachelor’s degree in Cognitive Science with a concentration in Machine Learning and Neural Computation and a minor in Math from the University of California - San Diego. I also spent a year in industry, working on signal processing algorithms for optical sensing across a range of research applications.
 
