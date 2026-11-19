@@ -13,19 +13,19 @@ I received my PhD in [Language Science](https://www.langsci.uci.edu/) from the U
 
 Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). [Quantifying mutual intelligibility gradients in Turkic languages using language models](https://aclanthology.org/2026.scil-main.41.pdf). <em> Proceedings of the Society for Computation in Linguistics.</em> 
 
-<p><strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em></p>
+<strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em>
 
-<p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em></p>
+<strong>Upadhye S.</strong> &amp; Futrell R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em>
 
-<p><strong>Upadhye S.</strong>, Li J., &amp; Futrell R. (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs. <em>The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics.</em></p>
+<strong>Upadhye S.</strong>, Li J., &amp; Futrell R. (2025). [SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs](https://aclanthology.org/2025.cmcl-1.19.pdf). <em>The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics.</em>
 
-<p><strong>Upadhye S.</strong> &amp; Futrell, R. (2023). Typing time PWI: A scalable paradigm for studying lexical production. <em>Proceedings of the 45th Annual Meeting of the Cognitive Science Society.</em></p>
+<strong>Upadhye S.</strong> &amp; Futrell, R. (2023). [Typing time PWI: A scalable paradigm for studying lexical production](https://escholarship.org/uc/item/2t73w1fx). <em>Proceedings of the 45th Annual Meeting of the Cognitive Science Society.</em>
 
 <p><strong>Upadhye, S.</strong>, Li, J., &amp; Futrell R. (2023). Bridging production and comprehension: A computational model of error generation and correction. <em>Proceedings of the Society for Computation in Linguistics.</em></p>
 
 <p><strong>Upadhye S.</strong> &amp; Futrell, R. (2022). Information-theoretic analyses of disfluencies in Speech. <em>NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognition Systems.</em></p>
 
-<strong>Upadhye S.</strong>, Bergen L., &amp; Kehler A. (2020). [Predicting Reference: What do Language Models learn about Discourse Models?](https://aclanthology.org/2020.emnlp-main.70.pdf). <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em>
+<strong>Upadhye S.</strong>, Bergen L., &amp; Kehler A. (2020). [Predicting Reference: What do Language Models learn about Discourse Models?](https://aclanthology.org/2020.emnlp-main.70.pdf) <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em>
 
 ### Presentations
 
