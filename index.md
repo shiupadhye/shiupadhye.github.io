@@ -25,7 +25,7 @@ Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell
 
 <p><strong>Upadhye S.</strong> &amp; Futrell, R. (2022). Information-theoretic analyses of disfluencies in Speech. <em>NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognition Systems.</em></p>
 
-<p><strong>Upadhye S.</strong>, Bergen L., &amp; Kehler A. (2020). Predicting Reference: What do Language Models learn about Discourse Models? <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em></p>
+<strong>Upadhye S.</strong>, Bergen L., &amp; Kehler A. (2020). [Predicting Reference: What do Language Models learn about Discourse Models?](https://aclanthology.org/2020.emnlp-main.70.pdf). <em>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.</em>
 
 ### Presentations
 
