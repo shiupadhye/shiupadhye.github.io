@@ -9,7 +9,7 @@ I received my PhD in [Language Science](https://www.langsci.uci.edu/) from the U
 ## Research
 ### Publications
 
-<p><strong>Upadhye S.</strong> &amp; Futrell R. (2026). [Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production](https://watermark02.silverchair.com/opmi.a.397.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAlgwggJUBgkqhkiG9w0BBwagggJFMIICQQIBADCCAjoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM8cvxbsGeXCEvays6AgEQgIICC3abrEQk7cb5s-ZNQWxh74GJYfoqbdNFt_BheHae_6xeRm5x6EFkjqwEsveTlzleekwf1CStSPoZKZGkmK17XaN5Oo9wxPuJeCynHlI-RRGFcSyjoe7KOMWs7iHtgemVyaDNbLcopKebu_yVyFBuPsw9ERrN8N1Cz_GTSEuFgCIULx1pRxm1qeRZKFgEtbAWa8VYIrOULI5q1Fl-tz20eI_bgxZbmoERorxKib0jaQ1UZX4BOFo5ecxZ5RSYTNmL-CX-rV_C_SwnbdjqlbWRk672Gyg__7OdplXVRVDufCt4-6HUZ1FJeLWtNjQmg_A93Mtdicsr7vv7sJ8x_Mwtoo_BNhhL045qVGhqrG1IDGyxNo-thqD_JTURMR0qzaSzvUXARGqCfjVylAZ7N2ZWu1CYSHz-tZSUmJbWCKMQoK7ifRltxlrZFSMod_mk6BnFSiLdNV8xsxQroktDOoZgeBKkdQHL45L5yOmFixmoD0Sme1AjPI8WLROO8zEe8RqUWmJA_n0lX-NzHdwnrr_PTB4eQMWt5xguhPK0C-qKptKWxSAdC11nWMJ9yYk4j219_dvQTlpt3YYr4an7fKqKYFrPIu8lSvXd601qjgwqI3MOGZQ4IYF6nEPtZAfcf1RF6535oA5uimY-K7lAOeGJc_oAdUxKfQ7uekwA4y7VWLS8Z1oy7dDDcc_t41c). <em> Open Mind. </em> </p>
+<p><strong>Upadhye S.</strong> &amp; Futrell R. (2026). Back to the Future: The Role of Past and Future Context Predictability in Incremental Language Production]. <em> Open Mind. </em> </p>
 
 <p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). [Quantifying mutual intelligibility gradients in Turkic languages using language models](https://aclanthology.org/2026.scil-main.41.pdf). <em>Proceedings of the Society for Computation in Linguistics.</em></p>
 
