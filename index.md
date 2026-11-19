@@ -13,6 +13,8 @@ I received my PhD in [Language Science](https://www.langsci.uci.edu/) from the U
 
 <p>Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell R. (2026). [Quantifying mutual intelligibility gradients in Turkic languages using language models](https://aclanthology.org/2026.scil-main.41.pdf). <em>Proceedings of the Society for Computation in Linguistics.</em></p>
 
+[Google](https://google.com)
+
 <p><strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em></p>
 
 <p><strong>Upadhye S.</strong> &amp; Futrell R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em></p>
