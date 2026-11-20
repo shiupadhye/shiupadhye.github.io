@@ -15,7 +15,7 @@ Baidildinova M., <strong>Upadhye S.</strong>, Wagner A., Mayer C., &amp; Futrell
 
 <strong>Upadhye S.</strong>, Li Y., Li J., Attali, N. &amp; Scontras G. (2025). GPT-2’s Production and Comprehension of Scope Ambiguity. <em>PragLM @ Conference on Language Modeling.</em>
 
-<strong>Upadhye S.</strong> &amp; Futrell R. (2025). Examining Future Context Predictability Effects in Word-form Variation and Word Choice. <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em>
+<strong>Upadhye S.</strong> &amp; Futrell R. (2025). [Examining Future Context Predictability Effects in Word-form Variation and Word Choice](https://escholarship.org/content/qt314194w1/qt314194w1.pdf). <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</em>
 
 <strong>Upadhye S.</strong>, Li J., &amp; Futrell R. (2025). [SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs](https://aclanthology.org/2025.cmcl-1.19.pdf). <em>The 14th edition of the Workshop on Cognitive Modeling and Computational Linguistics.</em>
 
